@@ -1,0 +1,1001 @@
+,gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score,score_category_math,score_category_reading,score_category_writing
+0,female,group B,bachelor's degree,standard,none,72.0,72.0,74.0,Intermediate,Intermediate,Intermediate
+1,female,group C,some college,standard,completed,69.0,90.0,88.0,Intermediate,Advanced,Advanced
+2,female,group B,master's degree,standard,none,90.0,95.0,93.0,Advanced,Master,Master
+3,male,group A,associate's degree,free/reduced,none,47.0,57.0,44.0,Intermediate,Intermediate,Elementary
+4,male,group C,some college,standard,none,76.0,78.0,75.0,Advanced,Advanced,Intermediate
+5,female,group B,associate's degree,standard,none,71.0,83.0,78.0,Intermediate,Advanced,Advanced
+6,female,group B,some college,standard,completed,88.0,95.0,92.0,Advanced,Master,Master
+7,male,group B,some college,free/reduced,none,40.0,43.0,39.0,Elementary,Elementary,Elementary
+8,male,group D,high school,free/reduced,completed,64.0,64.0,67.0,Intermediate,Intermediate,Intermediate
+9,female,group B,high school,free/reduced,none,38.0,60.0,50.0,Elementary,Intermediate,Intermediate
+10,male,group C,associate's degree,standard,none,58.0,54.0,52.0,Intermediate,Intermediate,Intermediate
+11,male,group D,associate's degree,standard,none,40.0,52.0,43.0,Elementary,Intermediate,Elementary
+12,female,group B,high school,standard,none,65.0,81.0,73.0,Intermediate,Advanced,Intermediate
+13,male,group A,some college,standard,completed,78.0,72.0,70.0,Advanced,Intermediate,Intermediate
+14,female,group A,master's degree,standard,none,50.0,53.0,58.0,Intermediate,Intermediate,Intermediate
+15,female,group C,some high school,standard,none,69.0,75.0,78.0,Intermediate,Intermediate,Advanced
+16,male,group C,high school,standard,none,88.0,89.0,86.0,Advanced,Advanced,Advanced
+17,female,group B,some high school,free/reduced,none,27.0,32.0,28.0,Elementary,Elementary,Elementary
+18,male,group C,master's degree,free/reduced,completed,46.0,42.0,46.0,Intermediate,Elementary,Intermediate
+19,female,group C,associate's degree,free/reduced,none,54.0,58.0,61.0,Intermediate,Intermediate,Intermediate
+20,male,group D,high school,standard,none,66.0,69.0,63.0,Intermediate,Intermediate,Intermediate
+21,female,group B,some college,free/reduced,completed,65.0,75.0,70.0,Intermediate,Intermediate,Intermediate
+22,male,group D,some college,standard,none,44.0,54.0,53.0,Elementary,Intermediate,Intermediate
+23,female,group C,some high school,standard,none,69.0,73.0,73.0,Intermediate,Intermediate,Intermediate
+24,male,group D,bachelor's degree,free/reduced,completed,74.0,71.0,80.0,Intermediate,Intermediate,Advanced
+25,male,group A,master's degree,free/reduced,none,73.0,74.0,72.0,Intermediate,Intermediate,Intermediate
+26,male,group B,some college,standard,none,69.0,54.0,55.0,Intermediate,Intermediate,Intermediate
+27,female,group C,bachelor's degree,standard,none,67.0,69.0,75.0,Intermediate,Intermediate,Intermediate
+28,male,group C,high school,standard,none,70.0,70.0,65.0,Intermediate,Intermediate,Intermediate
+29,female,group D,master's degree,standard,none,62.0,70.0,75.0,Intermediate,Intermediate,Intermediate
+30,female,group D,some college,standard,none,69.0,74.0,74.0,Intermediate,Intermediate,Intermediate
+31,female,group B,some college,standard,none,63.0,65.0,61.0,Intermediate,Intermediate,Intermediate
+32,female,group E,master's degree,free/reduced,none,56.0,72.0,65.0,Intermediate,Intermediate,Intermediate
+33,male,group D,some college,standard,none,40.0,42.0,38.0,Elementary,Elementary,Elementary
+34,male,group E,some college,standard,none,97.0,87.0,82.0,Master,Advanced,Advanced
+35,male,group E,associate's degree,standard,completed,81.0,81.0,79.0,Advanced,Advanced,Advanced
+36,female,group D,associate's degree,standard,none,74.0,81.0,83.0,Intermediate,Advanced,Advanced
+37,female,group D,some high school,free/reduced,none,50.0,64.0,59.0,Intermediate,Intermediate,Intermediate
+38,female,group D,associate's degree,free/reduced,completed,75.0,90.0,88.0,Intermediate,Advanced,Advanced
+39,male,group B,associate's degree,free/reduced,none,57.0,56.0,57.0,Intermediate,Intermediate,Intermediate
+40,male,group C,associate's degree,free/reduced,none,55.0,61.0,54.0,Intermediate,Intermediate,Intermediate
+41,female,group C,associate's degree,standard,none,58.0,73.0,68.0,Intermediate,Intermediate,Intermediate
+42,female,group B,associate's degree,standard,none,53.0,58.0,65.0,Intermediate,Intermediate,Intermediate
+43,male,group B,some college,free/reduced,completed,59.0,65.0,66.0,Intermediate,Intermediate,Intermediate
+44,female,group E,associate's degree,free/reduced,none,50.0,56.0,54.0,Intermediate,Intermediate,Intermediate
+45,male,group B,associate's degree,standard,none,65.0,54.0,57.0,Intermediate,Intermediate,Intermediate
+46,female,group A,associate's degree,standard,completed,55.0,65.0,62.0,Intermediate,Intermediate,Intermediate
+47,female,group C,high school,standard,none,66.0,71.0,76.0,Intermediate,Intermediate,Advanced
+48,female,group D,associate's degree,free/reduced,completed,57.0,74.0,76.0,Intermediate,Intermediate,Advanced
+49,male,group C,high school,standard,completed,82.0,84.0,82.0,Advanced,Advanced,Advanced
+50,male,group E,some college,standard,none,53.0,55.0,48.0,Intermediate,Intermediate,Intermediate
+51,male,group E,associate's degree,free/reduced,completed,77.0,69.0,68.0,Advanced,Intermediate,Intermediate
+52,male,group C,some college,standard,none,53.0,44.0,42.0,Intermediate,Elementary,Elementary
+53,male,group D,high school,standard,none,88.0,78.0,75.0,Advanced,Advanced,Intermediate
+54,female,group C,some high school,free/reduced,completed,71.0,84.0,87.0,Intermediate,Advanced,Advanced
+55,female,group C,high school,free/reduced,none,33.0,41.0,43.0,Elementary,Elementary,Elementary
+56,female,group E,associate's degree,standard,completed,82.0,85.0,86.0,Advanced,Advanced,Advanced
+57,male,group D,associate's degree,standard,none,52.0,55.0,49.0,Intermediate,Intermediate,Intermediate
+58,male,group D,some college,standard,completed,58.0,59.0,58.0,Intermediate,Intermediate,Intermediate
+59,female,group C,some high school,free/reduced,none,27.0,29.0,25.875,Elementary,Elementary,Elementary
+60,male,group E,bachelor's degree,free/reduced,completed,79.0,74.0,72.0,Advanced,Intermediate,Intermediate
+61,male,group A,some high school,free/reduced,none,39.0,39.0,34.0,Elementary,Elementary,Elementary
+62,male,group A,associate's degree,free/reduced,none,62.0,61.0,55.0,Intermediate,Intermediate,Intermediate
+63,female,group C,associate's degree,standard,none,69.0,80.0,71.0,Intermediate,Advanced,Intermediate
+64,female,group D,some high school,standard,none,59.0,58.0,59.0,Intermediate,Intermediate,Intermediate
+65,male,group B,some high school,standard,none,67.0,64.0,61.0,Intermediate,Intermediate,Intermediate
+66,male,group D,some high school,free/reduced,none,45.0,37.0,37.0,Elementary,Elementary,Elementary
+67,female,group C,some college,standard,none,60.0,72.0,74.0,Intermediate,Intermediate,Intermediate
+68,male,group B,associate's degree,free/reduced,none,61.0,58.0,56.0,Intermediate,Intermediate,Intermediate
+69,female,group C,associate's degree,standard,none,39.0,64.0,57.0,Elementary,Intermediate,Intermediate
+70,female,group D,some college,free/reduced,completed,58.0,63.0,73.0,Intermediate,Intermediate,Intermediate
+71,male,group D,some college,standard,completed,63.0,55.0,63.0,Intermediate,Intermediate,Intermediate
+72,female,group A,associate's degree,free/reduced,none,41.0,51.0,48.0,Elementary,Intermediate,Intermediate
+73,male,group C,some high school,free/reduced,none,61.0,57.0,56.0,Intermediate,Intermediate,Intermediate
+74,male,group C,some high school,standard,none,49.0,49.0,41.0,Intermediate,Intermediate,Elementary
+75,male,group B,associate's degree,free/reduced,none,44.0,41.0,38.0,Elementary,Elementary,Elementary
+76,male,group E,some high school,standard,none,30.0,29.0,25.875,Elementary,Elementary,Elementary
+77,male,group A,bachelor's degree,standard,completed,80.0,78.0,81.0,Advanced,Advanced,Advanced
+78,female,group D,some high school,standard,completed,61.0,74.0,72.0,Intermediate,Intermediate,Intermediate
+79,female,group E,master's degree,standard,none,62.0,68.0,68.0,Intermediate,Intermediate,Intermediate
+80,female,group B,associate's degree,standard,none,47.0,49.0,50.0,Intermediate,Intermediate,Intermediate
+81,male,group B,high school,free/reduced,none,49.0,45.0,45.0,Intermediate,Elementary,Elementary
+82,male,group A,some college,free/reduced,completed,50.0,47.0,54.0,Intermediate,Intermediate,Intermediate
+83,male,group E,associate's degree,standard,none,72.0,64.0,63.0,Intermediate,Intermediate,Intermediate
+84,male,group D,high school,free/reduced,none,42.0,39.0,34.0,Elementary,Elementary,Elementary
+85,female,group C,some college,standard,none,73.0,80.0,82.0,Intermediate,Advanced,Advanced
+86,female,group C,some college,free/reduced,none,76.0,83.0,88.0,Advanced,Advanced,Advanced
+87,female,group D,associate's degree,standard,none,71.0,71.0,74.0,Intermediate,Intermediate,Intermediate
+88,female,group A,some college,standard,none,58.0,70.0,67.0,Intermediate,Intermediate,Intermediate
+89,female,group D,some high school,standard,none,73.0,86.0,82.0,Intermediate,Advanced,Advanced
+90,female,group C,bachelor's degree,standard,none,65.0,72.0,74.0,Intermediate,Intermediate,Intermediate
+91,male,group C,high school,free/reduced,none,27.0,34.0,36.0,Elementary,Elementary,Elementary
+92,male,group C,high school,standard,none,71.0,79.0,71.0,Intermediate,Advanced,Intermediate
+93,male,group C,associate's degree,free/reduced,completed,43.0,45.0,50.0,Elementary,Elementary,Intermediate
+94,female,group B,some college,standard,none,79.0,86.0,92.0,Advanced,Advanced,Master
+95,male,group C,associate's degree,free/reduced,completed,78.0,81.0,82.0,Advanced,Advanced,Advanced
+96,male,group B,some high school,standard,completed,65.0,66.0,62.0,Intermediate,Intermediate,Intermediate
+97,female,group E,some college,standard,completed,63.0,72.0,70.0,Intermediate,Intermediate,Intermediate
+98,female,group D,some college,free/reduced,none,58.0,67.0,62.0,Intermediate,Intermediate,Intermediate
+99,female,group D,bachelor's degree,standard,none,65.0,67.0,62.0,Intermediate,Intermediate,Intermediate
+100,male,group B,some college,standard,none,79.0,67.0,67.0,Advanced,Intermediate,Intermediate
+101,male,group D,bachelor's degree,standard,completed,68.0,74.0,74.0,Intermediate,Intermediate,Intermediate
+102,female,group D,associate's degree,standard,none,85.0,91.0,89.0,Advanced,Master,Advanced
+103,male,group B,high school,standard,completed,60.0,44.0,47.0,Intermediate,Elementary,Intermediate
+104,male,group C,some college,standard,completed,98.0,86.0,90.0,Master,Advanced,Advanced
+105,female,group C,some college,standard,none,58.0,67.0,72.0,Intermediate,Intermediate,Intermediate
+106,female,group D,master's degree,standard,none,87.0,100.0,100.0,Advanced,Master,Master
+107,male,group E,associate's degree,standard,completed,66.0,63.0,64.0,Intermediate,Intermediate,Intermediate
+108,female,group B,associate's degree,free/reduced,none,52.0,76.0,70.0,Intermediate,Advanced,Intermediate
+109,female,group B,some high school,standard,none,70.0,64.0,72.0,Intermediate,Intermediate,Intermediate
+110,female,group D,associate's degree,free/reduced,completed,77.0,89.0,98.0,Advanced,Advanced,Master
+111,male,group C,high school,standard,none,62.0,55.0,49.0,Intermediate,Intermediate,Intermediate
+112,male,group A,associate's degree,standard,none,54.0,53.0,47.0,Intermediate,Intermediate,Intermediate
+113,female,group D,some college,standard,none,51.0,58.0,54.0,Intermediate,Intermediate,Intermediate
+114,female,group E,bachelor's degree,standard,completed,99.0,100.0,100.0,Master,Master,Master
+115,male,group C,high school,standard,none,84.0,77.0,74.0,Advanced,Advanced,Intermediate
+116,female,group B,bachelor's degree,free/reduced,none,75.0,85.0,82.0,Intermediate,Advanced,Advanced
+117,female,group D,bachelor's degree,standard,none,78.0,82.0,79.0,Advanced,Advanced,Advanced
+118,female,group D,some high school,standard,none,51.0,63.0,61.0,Intermediate,Intermediate,Intermediate
+119,female,group C,some college,standard,none,55.0,69.0,65.0,Intermediate,Intermediate,Intermediate
+120,female,group C,bachelor's degree,standard,completed,79.0,92.0,89.0,Advanced,Master,Advanced
+121,male,group B,associate's degree,standard,completed,91.0,89.0,92.0,Master,Advanced,Master
+122,female,group C,some college,standard,completed,88.0,93.0,93.0,Advanced,Master,Master
+123,male,group D,high school,free/reduced,none,63.0,57.0,56.0,Intermediate,Intermediate,Intermediate
+124,male,group E,some college,standard,none,83.0,80.0,73.0,Advanced,Advanced,Intermediate
+125,female,group B,high school,standard,none,87.0,95.0,86.0,Advanced,Master,Advanced
+126,male,group B,some high school,standard,none,72.0,68.0,67.0,Intermediate,Intermediate,Intermediate
+127,male,group D,some college,standard,completed,65.0,77.0,74.0,Intermediate,Advanced,Intermediate
+128,male,group D,master's degree,standard,none,82.0,82.0,74.0,Advanced,Advanced,Intermediate
+129,female,group A,bachelor's degree,standard,none,51.0,49.0,51.0,Intermediate,Intermediate,Intermediate
+130,male,group D,master's degree,standard,none,89.0,84.0,82.0,Advanced,Advanced,Advanced
+131,male,group C,some high school,free/reduced,completed,53.0,37.0,40.0,Intermediate,Elementary,Elementary
+132,male,group E,some college,free/reduced,completed,87.0,74.0,70.0,Advanced,Intermediate,Intermediate
+133,female,group C,some college,standard,completed,75.0,81.0,84.0,Intermediate,Advanced,Advanced
+134,male,group D,bachelor's degree,free/reduced,completed,74.0,79.0,75.0,Intermediate,Advanced,Intermediate
+135,male,group C,bachelor's degree,standard,none,58.0,55.0,48.0,Intermediate,Intermediate,Intermediate
+136,male,group B,some high school,standard,completed,51.0,54.0,41.0,Intermediate,Intermediate,Elementary
+137,male,group E,high school,standard,none,70.0,55.0,56.0,Intermediate,Intermediate,Intermediate
+138,female,group C,associate's degree,standard,none,59.0,66.0,67.0,Intermediate,Intermediate,Intermediate
+139,male,group D,some college,standard,completed,71.0,61.0,69.0,Intermediate,Intermediate,Intermediate
+140,female,group D,some high school,standard,none,76.0,72.0,71.0,Advanced,Intermediate,Intermediate
+141,female,group C,some college,free/reduced,none,59.0,62.0,64.0,Intermediate,Intermediate,Intermediate
+142,female,group E,some college,free/reduced,completed,42.0,55.0,54.0,Elementary,Intermediate,Intermediate
+143,male,group A,high school,standard,none,57.0,43.0,47.0,Intermediate,Elementary,Intermediate
+144,male,group D,some college,standard,none,88.0,73.0,78.0,Advanced,Intermediate,Advanced
+145,female,group C,some college,free/reduced,none,27.0,39.0,33.0,Elementary,Elementary,Elementary
+146,male,group B,some high school,standard,none,88.0,84.0,75.0,Advanced,Advanced,Intermediate
+147,male,group C,associate's degree,free/reduced,none,73.0,68.0,66.0,Intermediate,Intermediate,Intermediate
+148,female,group D,bachelor's degree,standard,completed,68.0,75.0,81.0,Intermediate,Intermediate,Advanced
+149,male,group E,associate's degree,free/reduced,completed,100.0,100.0,93.0,Master,Master,Master
+150,male,group A,some high school,standard,completed,62.0,67.0,69.0,Intermediate,Intermediate,Intermediate
+151,male,group A,bachelor's degree,standard,none,77.0,67.0,68.0,Advanced,Intermediate,Intermediate
+152,female,group B,associate's degree,standard,completed,59.0,70.0,66.0,Intermediate,Intermediate,Intermediate
+153,male,group D,bachelor's degree,standard,none,54.0,49.0,47.0,Intermediate,Intermediate,Intermediate
+154,male,group D,some high school,standard,none,62.0,67.0,61.0,Intermediate,Intermediate,Intermediate
+155,female,group C,some college,standard,completed,70.0,89.0,88.0,Intermediate,Advanced,Advanced
+156,female,group E,high school,free/reduced,completed,66.0,74.0,78.0,Intermediate,Intermediate,Advanced
+157,male,group B,some college,free/reduced,none,60.0,60.0,60.0,Intermediate,Intermediate,Intermediate
+158,female,group B,associate's degree,standard,completed,61.0,86.0,87.0,Intermediate,Advanced,Advanced
+159,male,group D,associate's degree,free/reduced,none,66.0,62.0,64.0,Intermediate,Intermediate,Intermediate
+160,male,group B,associate's degree,free/reduced,completed,82.0,78.0,74.0,Advanced,Advanced,Intermediate
+161,female,group E,some college,free/reduced,completed,75.0,88.0,85.0,Intermediate,Advanced,Advanced
+162,male,group B,master's degree,free/reduced,none,49.0,53.0,52.0,Intermediate,Intermediate,Intermediate
+163,male,group C,high school,standard,none,52.0,53.0,49.0,Intermediate,Intermediate,Intermediate
+164,female,group E,master's degree,standard,none,81.0,92.0,91.0,Advanced,Master,Master
+165,female,group C,bachelor's degree,standard,completed,96.0,100.0,100.0,Master,Master,Master
+166,male,group C,high school,free/reduced,completed,53.0,51.0,51.0,Intermediate,Intermediate,Intermediate
+167,female,group B,master's degree,free/reduced,completed,58.0,76.0,78.0,Intermediate,Advanced,Advanced
+168,female,group B,high school,standard,completed,68.0,83.0,78.0,Intermediate,Advanced,Advanced
+169,female,group C,some college,free/reduced,completed,67.0,75.0,70.0,Intermediate,Intermediate,Intermediate
+170,male,group A,high school,standard,completed,72.0,73.0,74.0,Intermediate,Intermediate,Intermediate
+171,male,group E,some high school,standard,none,94.0,88.0,78.0,Master,Advanced,Advanced
+172,female,group D,some college,standard,none,79.0,86.0,81.0,Advanced,Advanced,Advanced
+173,female,group C,associate's degree,standard,none,63.0,67.0,70.0,Intermediate,Intermediate,Intermediate
+174,female,group C,bachelor's degree,free/reduced,completed,43.0,51.0,54.0,Elementary,Intermediate,Intermediate
+175,female,group C,master's degree,standard,completed,81.0,91.0,87.0,Advanced,Master,Advanced
+176,female,group B,high school,free/reduced,completed,46.0,54.0,58.0,Intermediate,Intermediate,Intermediate
+177,female,group C,associate's degree,standard,completed,71.0,77.0,77.0,Intermediate,Advanced,Advanced
+178,female,group B,master's degree,free/reduced,completed,52.0,70.0,62.0,Intermediate,Intermediate,Intermediate
+179,female,group D,some high school,standard,completed,97.0,100.0,100.0,Master,Master,Master
+180,male,group C,master's degree,free/reduced,completed,62.0,68.0,75.0,Intermediate,Intermediate,Intermediate
+181,female,group C,some college,free/reduced,none,46.0,64.0,66.0,Intermediate,Intermediate,Intermediate
+182,female,group E,high school,standard,none,50.0,50.0,47.0,Intermediate,Intermediate,Intermediate
+183,female,group D,associate's degree,standard,none,65.0,69.0,70.0,Intermediate,Intermediate,Intermediate
+184,male,group C,some high school,free/reduced,completed,45.0,52.0,49.0,Elementary,Intermediate,Intermediate
+185,male,group C,associate's degree,free/reduced,completed,65.0,67.0,65.0,Intermediate,Intermediate,Intermediate
+186,male,group E,high school,standard,none,80.0,76.0,65.0,Advanced,Advanced,Intermediate
+187,male,group D,some high school,standard,completed,62.0,66.0,68.0,Intermediate,Intermediate,Intermediate
+188,male,group B,some high school,free/reduced,none,48.0,52.0,45.0,Intermediate,Intermediate,Elementary
+189,female,group C,bachelor's degree,standard,none,77.0,88.0,87.0,Advanced,Advanced,Advanced
+190,female,group E,associate's degree,standard,none,66.0,65.0,69.0,Intermediate,Intermediate,Intermediate
+191,male,group D,some college,standard,completed,76.0,83.0,79.0,Advanced,Advanced,Advanced
+192,female,group B,some high school,standard,none,62.0,64.0,66.0,Intermediate,Intermediate,Intermediate
+193,male,group D,some college,standard,completed,77.0,62.0,62.0,Advanced,Intermediate,Intermediate
+194,female,group C,master's degree,standard,completed,69.0,84.0,85.0,Intermediate,Advanced,Advanced
+195,male,group D,associate's degree,standard,none,61.0,55.0,52.0,Intermediate,Intermediate,Intermediate
+196,male,group C,some high school,free/reduced,completed,59.0,69.0,65.0,Intermediate,Intermediate,Intermediate
+197,male,group E,high school,free/reduced,none,55.0,56.0,51.0,Intermediate,Intermediate,Intermediate
+198,female,group B,some college,free/reduced,none,45.0,53.0,55.0,Elementary,Intermediate,Intermediate
+199,female,group B,bachelor's degree,free/reduced,none,78.0,79.0,76.0,Advanced,Advanced,Advanced
+200,female,group C,associate's degree,standard,completed,67.0,84.0,86.0,Intermediate,Advanced,Advanced
+201,female,group D,some college,free/reduced,none,65.0,81.0,77.0,Intermediate,Advanced,Advanced
+202,male,group C,associate's degree,standard,none,69.0,77.0,69.0,Intermediate,Advanced,Intermediate
+203,female,group B,associate's degree,standard,none,57.0,69.0,68.0,Intermediate,Intermediate,Intermediate
+204,male,group C,some college,standard,none,59.0,41.0,42.0,Intermediate,Elementary,Elementary
+205,male,group D,some high school,standard,completed,74.0,71.0,78.0,Intermediate,Intermediate,Advanced
+206,male,group E,bachelor's degree,standard,none,82.0,62.0,62.0,Advanced,Intermediate,Intermediate
+207,male,group E,high school,standard,completed,81.0,80.0,76.0,Advanced,Advanced,Advanced
+208,female,group B,some college,free/reduced,none,74.0,81.0,76.0,Intermediate,Advanced,Advanced
+209,female,group B,some college,free/reduced,none,58.0,61.0,66.0,Intermediate,Intermediate,Intermediate
+210,male,group D,some high school,free/reduced,completed,80.0,79.0,79.0,Advanced,Advanced,Advanced
+211,male,group C,some college,free/reduced,none,35.0,29.0,27.0,Elementary,Elementary,Elementary
+212,female,group C,high school,free/reduced,none,42.0,62.0,60.0,Elementary,Intermediate,Intermediate
+213,male,group C,associate's degree,free/reduced,completed,60.0,51.0,56.0,Intermediate,Intermediate,Intermediate
+214,male,group E,high school,standard,completed,87.0,91.0,81.0,Advanced,Master,Advanced
+215,male,group B,some high school,standard,completed,84.0,83.0,75.0,Advanced,Advanced,Intermediate
+216,female,group E,associate's degree,free/reduced,completed,83.0,86.0,88.0,Advanced,Advanced,Advanced
+217,female,group C,high school,free/reduced,none,34.0,42.0,39.0,Elementary,Elementary,Elementary
+218,male,group B,high school,free/reduced,none,66.0,77.0,70.0,Intermediate,Advanced,Intermediate
+219,male,group B,some high school,standard,completed,61.0,56.0,56.0,Intermediate,Intermediate,Intermediate
+220,female,group D,high school,standard,completed,56.0,68.0,74.0,Intermediate,Intermediate,Intermediate
+221,male,group B,associate's degree,standard,none,87.0,85.0,73.0,Advanced,Advanced,Intermediate
+222,female,group C,some high school,free/reduced,none,55.0,65.0,62.0,Intermediate,Intermediate,Intermediate
+223,male,group D,some high school,standard,none,86.0,80.0,75.0,Advanced,Advanced,Intermediate
+224,female,group B,associate's degree,standard,completed,52.0,66.0,73.0,Intermediate,Intermediate,Intermediate
+225,female,group E,master's degree,free/reduced,none,45.0,56.0,54.0,Elementary,Intermediate,Intermediate
+226,female,group C,some college,standard,none,72.0,72.0,71.0,Intermediate,Intermediate,Intermediate
+227,male,group D,high school,standard,none,57.0,50.0,54.0,Intermediate,Intermediate,Intermediate
+228,male,group A,some high school,free/reduced,none,68.0,72.0,64.0,Intermediate,Intermediate,Intermediate
+229,female,group C,some college,standard,completed,88.0,95.0,94.0,Advanced,Master,Master
+230,male,group D,some college,standard,none,76.0,64.0,66.0,Advanced,Intermediate,Intermediate
+231,male,group C,associate's degree,standard,none,46.0,43.0,42.0,Intermediate,Elementary,Elementary
+232,female,group B,bachelor's degree,standard,none,67.0,86.0,83.0,Intermediate,Advanced,Advanced
+233,male,group E,some high school,standard,none,92.0,87.0,78.0,Master,Advanced,Advanced
+234,male,group C,bachelor's degree,standard,completed,83.0,82.0,84.0,Advanced,Advanced,Advanced
+235,male,group D,associate's degree,standard,none,80.0,75.0,77.0,Advanced,Intermediate,Advanced
+236,male,group D,bachelor's degree,free/reduced,none,63.0,66.0,67.0,Intermediate,Intermediate,Intermediate
+237,female,group D,some high school,standard,completed,64.0,60.0,74.0,Intermediate,Intermediate,Intermediate
+238,male,group B,some college,standard,none,54.0,52.0,51.0,Intermediate,Intermediate,Intermediate
+239,male,group C,associate's degree,standard,none,84.0,80.0,80.0,Advanced,Advanced,Advanced
+240,male,group D,high school,free/reduced,completed,73.0,68.0,66.0,Intermediate,Intermediate,Intermediate
+241,female,group E,bachelor's degree,standard,none,80.0,83.0,83.0,Advanced,Advanced,Advanced
+242,female,group D,high school,standard,none,56.0,52.0,55.0,Intermediate,Intermediate,Intermediate
+243,male,group E,some college,standard,none,59.0,51.0,43.0,Intermediate,Intermediate,Elementary
+244,male,group D,some high school,standard,none,75.0,74.0,69.0,Intermediate,Intermediate,Intermediate
+245,male,group C,associate's degree,standard,none,85.0,76.0,71.0,Advanced,Advanced,Intermediate
+246,male,group E,associate's degree,standard,none,89.0,76.0,74.0,Advanced,Advanced,Intermediate
+247,female,group B,high school,standard,completed,58.0,70.0,68.0,Intermediate,Intermediate,Intermediate
+248,female,group B,high school,standard,none,65.0,64.0,62.0,Intermediate,Intermediate,Intermediate
+249,male,group C,high school,standard,none,68.0,60.0,53.0,Intermediate,Intermediate,Intermediate
+250,male,group A,some high school,standard,completed,47.0,49.0,49.0,Intermediate,Intermediate,Intermediate
+251,female,group D,some college,free/reduced,none,71.0,83.0,83.0,Intermediate,Advanced,Advanced
+252,female,group B,some high school,standard,completed,60.0,70.0,70.0,Intermediate,Intermediate,Intermediate
+253,male,group D,master's degree,standard,none,80.0,80.0,72.0,Advanced,Advanced,Intermediate
+254,male,group D,high school,standard,none,54.0,52.0,52.0,Intermediate,Intermediate,Intermediate
+255,female,group E,some college,standard,none,62.0,73.0,70.0,Intermediate,Intermediate,Intermediate
+256,female,group C,associate's degree,free/reduced,none,64.0,73.0,68.0,Intermediate,Intermediate,Intermediate
+257,male,group C,associate's degree,standard,completed,78.0,77.0,77.0,Advanced,Advanced,Advanced
+258,female,group B,some college,standard,none,70.0,75.0,78.0,Intermediate,Intermediate,Advanced
+259,female,group C,master's degree,free/reduced,completed,65.0,81.0,81.0,Intermediate,Advanced,Advanced
+260,female,group C,some high school,free/reduced,completed,64.0,79.0,77.0,Intermediate,Advanced,Advanced
+261,male,group C,some college,standard,completed,79.0,79.0,78.0,Advanced,Advanced,Advanced
+262,female,group C,some high school,free/reduced,none,44.0,50.0,51.0,Elementary,Intermediate,Intermediate
+263,female,group E,high school,standard,none,99.0,93.0,90.0,Master,Master,Advanced
+264,male,group D,high school,standard,none,76.0,73.0,68.0,Advanced,Intermediate,Intermediate
+265,male,group D,some high school,free/reduced,none,59.0,42.0,41.0,Intermediate,Elementary,Elementary
+266,female,group C,bachelor's degree,standard,none,63.0,75.0,81.0,Intermediate,Intermediate,Advanced
+267,female,group D,high school,standard,none,69.0,72.0,77.0,Intermediate,Intermediate,Advanced
+268,female,group D,associate's degree,standard,completed,88.0,92.0,95.0,Advanced,Master,Master
+269,female,group E,some college,free/reduced,none,71.0,76.0,70.0,Intermediate,Advanced,Intermediate
+270,male,group C,bachelor's degree,standard,none,69.0,63.0,61.0,Intermediate,Intermediate,Intermediate
+271,male,group C,some college,standard,none,58.0,49.0,42.0,Intermediate,Intermediate,Elementary
+272,female,group D,associate's degree,free/reduced,none,47.0,53.0,58.0,Intermediate,Intermediate,Intermediate
+273,female,group D,some college,standard,none,65.0,70.0,71.0,Intermediate,Intermediate,Intermediate
+274,male,group B,some college,standard,completed,88.0,85.0,76.0,Advanced,Advanced,Advanced
+275,male,group C,bachelor's degree,standard,none,83.0,78.0,73.0,Advanced,Advanced,Intermediate
+276,female,group C,some high school,standard,completed,85.0,92.0,93.0,Advanced,Master,Master
+277,female,group E,high school,standard,completed,59.0,63.0,75.0,Intermediate,Intermediate,Intermediate
+278,female,group C,some high school,free/reduced,none,65.0,86.0,80.0,Intermediate,Advanced,Advanced
+279,male,group B,bachelor's degree,free/reduced,none,73.0,56.0,57.0,Intermediate,Intermediate,Intermediate
+280,male,group D,high school,standard,none,53.0,52.0,42.0,Intermediate,Intermediate,Elementary
+281,male,group D,high school,standard,none,45.0,48.0,46.0,Elementary,Intermediate,Intermediate
+282,female,group D,bachelor's degree,free/reduced,none,73.0,79.0,84.0,Intermediate,Advanced,Advanced
+283,female,group D,some college,free/reduced,completed,70.0,78.0,78.0,Intermediate,Advanced,Advanced
+284,female,group B,some high school,standard,none,37.0,46.0,46.0,Elementary,Intermediate,Intermediate
+285,male,group B,associate's degree,standard,completed,81.0,82.0,82.0,Advanced,Advanced,Advanced
+286,male,group E,associate's degree,standard,completed,97.0,82.0,88.0,Master,Advanced,Advanced
+287,female,group B,some high school,standard,none,67.0,89.0,82.0,Intermediate,Advanced,Advanced
+288,male,group B,bachelor's degree,free/reduced,none,88.0,75.0,76.0,Advanced,Intermediate,Advanced
+289,male,group E,some high school,standard,completed,77.0,76.0,77.0,Advanced,Advanced,Advanced
+290,male,group C,associate's degree,standard,none,76.0,70.0,68.0,Advanced,Intermediate,Intermediate
+291,male,group D,some high school,standard,none,86.0,73.0,70.0,Advanced,Intermediate,Intermediate
+292,male,group C,some high school,standard,completed,63.0,60.0,57.0,Intermediate,Intermediate,Intermediate
+293,female,group E,bachelor's degree,standard,none,65.0,73.0,75.0,Intermediate,Intermediate,Intermediate
+294,male,group D,high school,free/reduced,completed,78.0,77.0,80.0,Advanced,Advanced,Advanced
+295,male,group B,associate's degree,free/reduced,none,67.0,62.0,60.0,Intermediate,Intermediate,Intermediate
+296,male,group A,some high school,standard,completed,46.0,41.0,43.0,Intermediate,Elementary,Elementary
+297,male,group E,associate's degree,standard,completed,71.0,74.0,68.0,Intermediate,Intermediate,Intermediate
+298,male,group C,high school,free/reduced,completed,40.0,46.0,50.0,Elementary,Intermediate,Intermediate
+299,male,group D,associate's degree,free/reduced,none,90.0,87.0,75.0,Advanced,Advanced,Intermediate
+300,male,group A,some college,free/reduced,completed,81.0,78.0,81.0,Advanced,Advanced,Advanced
+301,male,group D,some high school,free/reduced,none,56.0,54.0,52.0,Intermediate,Intermediate,Intermediate
+302,female,group C,associate's degree,standard,completed,67.0,84.0,81.0,Intermediate,Advanced,Advanced
+303,male,group B,associate's degree,standard,none,80.0,76.0,64.0,Advanced,Advanced,Intermediate
+304,female,group C,associate's degree,standard,completed,74.0,75.0,83.0,Intermediate,Intermediate,Advanced
+305,male,group A,some college,standard,none,69.0,67.0,69.0,Intermediate,Intermediate,Intermediate
+306,male,group E,some college,standard,completed,99.0,87.0,81.0,Master,Advanced,Advanced
+307,male,group C,some high school,standard,none,51.0,52.0,44.0,Intermediate,Intermediate,Elementary
+308,female,group B,associate's degree,free/reduced,none,53.0,71.0,67.0,Intermediate,Intermediate,Intermediate
+309,female,group D,high school,free/reduced,none,49.0,57.0,52.0,Intermediate,Intermediate,Intermediate
+310,female,group B,associate's degree,standard,none,73.0,76.0,80.0,Intermediate,Advanced,Advanced
+311,male,group B,bachelor's degree,standard,none,66.0,60.0,57.0,Intermediate,Intermediate,Intermediate
+312,male,group D,bachelor's degree,standard,completed,67.0,61.0,68.0,Intermediate,Intermediate,Intermediate
+313,female,group C,associate's degree,free/reduced,completed,68.0,67.0,69.0,Intermediate,Intermediate,Intermediate
+314,female,group C,bachelor's degree,standard,completed,59.0,64.0,75.0,Intermediate,Intermediate,Intermediate
+315,male,group C,high school,standard,none,71.0,66.0,65.0,Intermediate,Intermediate,Intermediate
+316,female,group D,master's degree,standard,completed,77.0,82.0,91.0,Advanced,Advanced,Master
+317,male,group C,associate's degree,standard,none,83.0,72.0,78.0,Advanced,Intermediate,Advanced
+318,male,group B,bachelor's degree,standard,none,63.0,71.0,69.0,Intermediate,Intermediate,Intermediate
+319,female,group D,associate's degree,free/reduced,none,56.0,65.0,63.0,Intermediate,Intermediate,Intermediate
+320,female,group C,high school,free/reduced,completed,67.0,79.0,84.0,Intermediate,Advanced,Advanced
+321,female,group E,high school,standard,none,75.0,86.0,79.0,Intermediate,Advanced,Advanced
+322,female,group C,some college,standard,none,71.0,81.0,80.0,Intermediate,Advanced,Advanced
+323,female,group C,some high school,free/reduced,none,43.0,53.0,53.0,Elementary,Intermediate,Intermediate
+324,female,group C,high school,free/reduced,none,41.0,46.0,43.0,Elementary,Intermediate,Elementary
+325,female,group C,some college,standard,none,82.0,90.0,94.0,Advanced,Advanced,Master
+326,male,group C,some college,standard,none,61.0,61.0,62.0,Intermediate,Intermediate,Intermediate
+327,male,group A,some college,free/reduced,none,28.0,29.0,25.875,Elementary,Elementary,Elementary
+328,male,group C,associate's degree,standard,completed,82.0,75.0,77.0,Advanced,Intermediate,Advanced
+329,female,group B,some high school,standard,none,41.0,55.0,51.0,Elementary,Intermediate,Intermediate
+330,male,group C,high school,standard,none,71.0,60.0,61.0,Intermediate,Intermediate,Intermediate
+331,male,group C,associate's degree,standard,none,47.0,37.0,35.0,Intermediate,Elementary,Elementary
+332,male,group E,associate's degree,standard,completed,62.0,56.0,53.0,Intermediate,Intermediate,Intermediate
+333,male,group B,associate's degree,standard,none,90.0,78.0,81.0,Advanced,Advanced,Advanced
+334,female,group C,bachelor's degree,standard,none,83.0,93.0,95.0,Advanced,Master,Master
+335,female,group B,some college,free/reduced,none,61.0,68.0,66.0,Intermediate,Intermediate,Intermediate
+336,male,group D,some high school,standard,completed,76.0,70.0,69.0,Advanced,Intermediate,Intermediate
+337,male,group C,associate's degree,standard,none,49.0,51.0,43.0,Intermediate,Intermediate,Elementary
+338,female,group B,some high school,free/reduced,none,27.0,38.0,27.0,Elementary,Elementary,Elementary
+339,female,group D,some high school,free/reduced,completed,35.0,55.0,60.0,Elementary,Intermediate,Intermediate
+340,male,group C,high school,free/reduced,none,58.0,61.0,52.0,Intermediate,Intermediate,Intermediate
+341,female,group C,high school,standard,none,61.0,73.0,63.0,Intermediate,Intermediate,Intermediate
+342,female,group B,high school,standard,completed,69.0,76.0,74.0,Intermediate,Advanced,Intermediate
+343,male,group D,associate's degree,standard,completed,67.0,72.0,67.0,Intermediate,Intermediate,Intermediate
+344,male,group D,some college,standard,none,79.0,73.0,67.0,Advanced,Intermediate,Intermediate
+345,female,group C,high school,standard,none,72.0,80.0,75.0,Intermediate,Advanced,Intermediate
+346,male,group B,some college,standard,none,62.0,61.0,57.0,Intermediate,Intermediate,Intermediate
+347,female,group C,bachelor's degree,standard,completed,77.0,94.0,95.0,Advanced,Master,Master
+348,male,group D,high school,free/reduced,none,75.0,74.0,66.0,Intermediate,Intermediate,Intermediate
+349,male,group E,associate's degree,standard,none,87.0,74.0,76.0,Advanced,Intermediate,Advanced
+350,female,group B,bachelor's degree,standard,none,52.0,65.0,69.0,Intermediate,Intermediate,Intermediate
+351,male,group E,some college,standard,none,66.0,57.0,52.0,Intermediate,Intermediate,Intermediate
+352,female,group C,some college,standard,completed,63.0,78.0,80.0,Intermediate,Advanced,Advanced
+353,female,group C,associate's degree,standard,none,46.0,58.0,57.0,Intermediate,Intermediate,Intermediate
+354,female,group C,some college,standard,none,59.0,71.0,70.0,Intermediate,Intermediate,Intermediate
+355,female,group B,bachelor's degree,standard,none,61.0,72.0,70.0,Intermediate,Intermediate,Intermediate
+356,male,group A,associate's degree,standard,none,63.0,61.0,61.0,Intermediate,Intermediate,Intermediate
+357,female,group C,some college,free/reduced,completed,42.0,66.0,69.0,Elementary,Intermediate,Intermediate
+358,male,group D,some college,free/reduced,none,59.0,62.0,61.0,Intermediate,Intermediate,Intermediate
+359,female,group D,some college,standard,none,80.0,90.0,89.0,Advanced,Advanced,Advanced
+360,female,group B,high school,standard,none,58.0,62.0,59.0,Intermediate,Intermediate,Intermediate
+361,male,group B,some high school,standard,completed,85.0,84.0,78.0,Advanced,Advanced,Advanced
+362,female,group C,some college,standard,none,52.0,58.0,58.0,Intermediate,Intermediate,Intermediate
+363,female,group D,some high school,free/reduced,none,27.0,34.0,32.0,Elementary,Elementary,Elementary
+364,male,group C,some college,standard,none,59.0,60.0,58.0,Intermediate,Intermediate,Intermediate
+365,male,group A,bachelor's degree,free/reduced,completed,49.0,58.0,60.0,Intermediate,Intermediate,Intermediate
+366,male,group C,high school,standard,completed,69.0,58.0,53.0,Intermediate,Intermediate,Intermediate
+367,male,group C,bachelor's degree,free/reduced,none,61.0,66.0,61.0,Intermediate,Intermediate,Intermediate
+368,female,group A,some high school,free/reduced,none,44.0,64.0,58.0,Elementary,Intermediate,Intermediate
+369,female,group D,some high school,standard,none,73.0,84.0,85.0,Intermediate,Advanced,Advanced
+370,male,group E,some college,standard,none,84.0,77.0,71.0,Advanced,Advanced,Intermediate
+371,female,group C,some college,free/reduced,completed,45.0,73.0,70.0,Elementary,Intermediate,Intermediate
+372,male,group D,some high school,standard,none,74.0,74.0,72.0,Intermediate,Intermediate,Intermediate
+373,female,group D,some college,standard,completed,82.0,97.0,96.0,Advanced,Master,Master
+374,female,group D,bachelor's degree,standard,none,59.0,70.0,73.0,Intermediate,Intermediate,Intermediate
+375,male,group E,associate's degree,free/reduced,none,46.0,43.0,41.0,Intermediate,Elementary,Elementary
+376,female,group D,some high school,standard,none,80.0,90.0,82.0,Advanced,Advanced,Advanced
+377,female,group D,master's degree,free/reduced,completed,85.0,95.0,100.0,Advanced,Master,Master
+378,female,group A,some high school,standard,none,71.0,83.0,77.0,Intermediate,Advanced,Advanced
+379,male,group A,bachelor's degree,standard,none,66.0,64.0,62.0,Intermediate,Intermediate,Intermediate
+380,female,group B,associate's degree,standard,none,80.0,86.0,83.0,Advanced,Advanced,Advanced
+381,male,group C,associate's degree,standard,completed,87.0,100.0,95.0,Advanced,Master,Master
+382,male,group C,master's degree,free/reduced,none,79.0,81.0,71.0,Advanced,Advanced,Intermediate
+383,female,group E,some high school,free/reduced,none,38.0,49.0,45.0,Elementary,Intermediate,Elementary
+384,female,group A,some high school,free/reduced,none,38.0,43.0,43.0,Elementary,Elementary,Elementary
+385,female,group E,some college,standard,none,67.0,76.0,75.0,Intermediate,Advanced,Intermediate
+386,female,group E,bachelor's degree,standard,none,64.0,73.0,70.0,Intermediate,Intermediate,Intermediate
+387,female,group C,associate's degree,free/reduced,none,57.0,78.0,67.0,Intermediate,Advanced,Intermediate
+388,female,group D,high school,standard,none,62.0,64.0,64.0,Intermediate,Intermediate,Intermediate
+389,male,group D,master's degree,standard,none,73.0,70.0,75.0,Intermediate,Intermediate,Intermediate
+390,male,group E,some high school,free/reduced,completed,73.0,67.0,59.0,Intermediate,Intermediate,Intermediate
+391,female,group D,some college,standard,none,77.0,68.0,77.0,Advanced,Intermediate,Advanced
+392,male,group E,some college,standard,none,76.0,67.0,67.0,Advanced,Intermediate,Intermediate
+393,male,group C,associate's degree,standard,completed,57.0,54.0,56.0,Intermediate,Intermediate,Intermediate
+394,female,group C,some high school,standard,completed,65.0,74.0,77.0,Intermediate,Intermediate,Advanced
+395,male,group A,high school,free/reduced,none,48.0,45.0,41.0,Intermediate,Elementary,Elementary
+396,female,group B,high school,free/reduced,none,50.0,67.0,63.0,Intermediate,Intermediate,Intermediate
+397,female,group C,associate's degree,standard,none,85.0,89.0,95.0,Advanced,Advanced,Master
+398,male,group B,some high school,standard,none,74.0,63.0,57.0,Intermediate,Intermediate,Intermediate
+399,male,group D,some high school,standard,none,60.0,59.0,54.0,Intermediate,Intermediate,Intermediate
+400,female,group C,some high school,standard,completed,59.0,54.0,67.0,Intermediate,Intermediate,Intermediate
+401,male,group A,some college,standard,none,53.0,43.0,43.0,Intermediate,Elementary,Elementary
+402,female,group A,some college,free/reduced,none,49.0,65.0,55.0,Intermediate,Intermediate,Intermediate
+403,female,group D,high school,standard,completed,88.0,99.0,100.0,Advanced,Master,Master
+404,female,group C,high school,standard,none,54.0,59.0,62.0,Intermediate,Intermediate,Intermediate
+405,female,group C,some high school,standard,none,63.0,73.0,68.0,Intermediate,Intermediate,Intermediate
+406,male,group B,associate's degree,standard,completed,65.0,65.0,63.0,Intermediate,Intermediate,Intermediate
+407,female,group B,associate's degree,standard,none,82.0,80.0,77.0,Advanced,Advanced,Advanced
+408,female,group D,high school,free/reduced,completed,52.0,57.0,56.0,Intermediate,Intermediate,Intermediate
+409,male,group D,associate's degree,standard,completed,87.0,84.0,85.0,Advanced,Advanced,Advanced
+410,female,group D,master's degree,standard,completed,70.0,71.0,74.0,Intermediate,Intermediate,Intermediate
+411,male,group E,some college,standard,completed,84.0,83.0,78.0,Advanced,Advanced,Advanced
+412,male,group D,associate's degree,standard,none,71.0,66.0,60.0,Intermediate,Intermediate,Intermediate
+413,male,group B,some high school,standard,completed,63.0,67.0,67.0,Intermediate,Intermediate,Intermediate
+414,female,group C,bachelor's degree,free/reduced,completed,51.0,72.0,79.0,Intermediate,Intermediate,Advanced
+415,male,group E,high school,standard,none,84.0,73.0,69.0,Advanced,Intermediate,Intermediate
+416,male,group C,bachelor's degree,standard,completed,71.0,74.0,68.0,Intermediate,Intermediate,Intermediate
+417,male,group C,associate's degree,standard,none,74.0,73.0,67.0,Intermediate,Intermediate,Intermediate
+418,male,group D,some college,standard,none,68.0,59.0,62.0,Intermediate,Intermediate,Intermediate
+419,male,group E,high school,free/reduced,completed,57.0,56.0,54.0,Intermediate,Intermediate,Intermediate
+420,female,group C,associate's degree,free/reduced,completed,82.0,93.0,93.0,Advanced,Master,Master
+421,female,group D,high school,standard,completed,57.0,58.0,64.0,Intermediate,Intermediate,Intermediate
+422,female,group D,master's degree,free/reduced,completed,47.0,58.0,67.0,Intermediate,Intermediate,Intermediate
+423,female,group A,some high school,standard,completed,59.0,85.0,80.0,Intermediate,Advanced,Advanced
+424,male,group B,some college,free/reduced,none,41.0,39.0,34.0,Elementary,Elementary,Elementary
+425,female,group C,some college,free/reduced,none,62.0,67.0,62.0,Intermediate,Intermediate,Intermediate
+426,male,group C,bachelor's degree,standard,none,86.0,83.0,86.0,Advanced,Advanced,Advanced
+427,male,group C,some high school,free/reduced,none,69.0,71.0,65.0,Intermediate,Intermediate,Intermediate
+428,male,group A,some high school,free/reduced,none,65.0,59.0,53.0,Intermediate,Intermediate,Intermediate
+429,male,group C,some high school,free/reduced,none,68.0,63.0,54.0,Intermediate,Intermediate,Intermediate
+430,male,group C,associate's degree,free/reduced,none,64.0,66.0,59.0,Intermediate,Intermediate,Intermediate
+431,female,group C,high school,standard,none,61.0,72.0,70.0,Intermediate,Intermediate,Intermediate
+432,male,group C,high school,standard,none,61.0,56.0,55.0,Intermediate,Intermediate,Intermediate
+433,female,group A,some high school,free/reduced,none,47.0,59.0,50.0,Intermediate,Intermediate,Intermediate
+434,male,group C,some high school,standard,none,73.0,66.0,66.0,Intermediate,Intermediate,Intermediate
+435,male,group C,some college,free/reduced,completed,50.0,48.0,53.0,Intermediate,Intermediate,Intermediate
+436,male,group D,associate's degree,standard,none,75.0,68.0,64.0,Intermediate,Intermediate,Intermediate
+437,male,group D,associate's degree,free/reduced,none,75.0,66.0,73.0,Intermediate,Intermediate,Intermediate
+438,male,group C,high school,standard,none,70.0,56.0,51.0,Intermediate,Intermediate,Intermediate
+439,male,group D,some high school,standard,completed,89.0,88.0,82.0,Advanced,Advanced,Advanced
+440,female,group C,some college,standard,completed,67.0,81.0,79.0,Intermediate,Advanced,Advanced
+441,female,group D,high school,standard,none,78.0,81.0,80.0,Advanced,Advanced,Advanced
+442,female,group A,some high school,free/reduced,none,59.0,73.0,69.0,Intermediate,Intermediate,Intermediate
+443,female,group B,associate's degree,standard,none,73.0,83.0,76.0,Intermediate,Advanced,Advanced
+444,male,group A,some high school,free/reduced,none,79.0,82.0,73.0,Advanced,Advanced,Intermediate
+445,female,group C,some high school,standard,completed,67.0,74.0,77.0,Intermediate,Intermediate,Advanced
+446,male,group D,some college,free/reduced,none,69.0,66.0,60.0,Intermediate,Intermediate,Intermediate
+447,male,group C,high school,standard,completed,86.0,81.0,80.0,Advanced,Advanced,Advanced
+448,male,group B,high school,standard,none,47.0,46.0,42.0,Intermediate,Intermediate,Elementary
+449,male,group B,associate's degree,standard,none,81.0,73.0,72.0,Advanced,Intermediate,Intermediate
+450,female,group C,some college,free/reduced,completed,64.0,85.0,85.0,Intermediate,Advanced,Advanced
+451,female,group E,some college,standard,none,100.0,92.0,97.0,Master,Master,Master
+452,female,group C,associate's degree,free/reduced,none,65.0,77.0,74.0,Intermediate,Advanced,Intermediate
+453,male,group C,some college,free/reduced,none,65.0,58.0,49.0,Intermediate,Intermediate,Intermediate
+454,female,group C,associate's degree,free/reduced,none,53.0,61.0,62.0,Intermediate,Intermediate,Intermediate
+455,male,group C,bachelor's degree,free/reduced,none,37.0,56.0,47.0,Elementary,Intermediate,Intermediate
+456,female,group D,bachelor's degree,standard,none,79.0,89.0,89.0,Advanced,Advanced,Advanced
+457,male,group D,associate's degree,free/reduced,none,53.0,54.0,48.0,Intermediate,Intermediate,Intermediate
+458,female,group E,bachelor's degree,standard,none,100.0,100.0,100.0,Master,Master,Master
+459,male,group B,high school,standard,completed,72.0,65.0,68.0,Intermediate,Intermediate,Intermediate
+460,male,group C,bachelor's degree,free/reduced,none,53.0,58.0,55.0,Intermediate,Intermediate,Intermediate
+461,male,group B,some college,free/reduced,none,54.0,54.0,45.0,Intermediate,Intermediate,Elementary
+462,female,group E,some college,standard,none,71.0,70.0,76.0,Intermediate,Intermediate,Advanced
+463,female,group C,some college,free/reduced,none,77.0,90.0,91.0,Advanced,Advanced,Master
+464,male,group A,bachelor's degree,standard,completed,75.0,58.0,62.0,Intermediate,Intermediate,Intermediate
+465,female,group C,some college,standard,none,84.0,87.0,91.0,Advanced,Advanced,Master
+466,female,group D,associate's degree,free/reduced,none,27.0,31.0,38.0,Elementary,Elementary,Elementary
+467,male,group A,high school,free/reduced,completed,72.0,67.0,65.0,Intermediate,Intermediate,Intermediate
+468,female,group A,high school,free/reduced,completed,77.0,88.0,85.0,Advanced,Advanced,Advanced
+469,male,group C,some college,standard,none,91.0,74.0,76.0,Master,Intermediate,Advanced
+470,female,group C,associate's degree,standard,completed,83.0,85.0,90.0,Advanced,Advanced,Advanced
+471,female,group C,high school,standard,none,63.0,69.0,74.0,Intermediate,Intermediate,Intermediate
+472,female,group C,associate's degree,standard,completed,68.0,86.0,84.0,Intermediate,Advanced,Advanced
+473,female,group D,some high school,standard,none,59.0,67.0,61.0,Intermediate,Intermediate,Intermediate
+474,female,group B,associate's degree,standard,completed,90.0,90.0,91.0,Advanced,Advanced,Master
+475,female,group D,bachelor's degree,standard,completed,71.0,76.0,83.0,Intermediate,Advanced,Advanced
+476,male,group E,bachelor's degree,standard,completed,76.0,62.0,66.0,Advanced,Intermediate,Intermediate
+477,male,group D,associate's degree,standard,none,80.0,68.0,72.0,Advanced,Intermediate,Intermediate
+478,female,group D,master's degree,standard,none,55.0,64.0,70.0,Intermediate,Intermediate,Intermediate
+479,male,group E,associate's degree,standard,none,76.0,71.0,67.0,Advanced,Intermediate,Intermediate
+480,male,group B,high school,standard,completed,73.0,71.0,68.0,Intermediate,Intermediate,Intermediate
+481,female,group D,associate's degree,free/reduced,none,52.0,59.0,56.0,Intermediate,Intermediate,Intermediate
+482,male,group C,some college,free/reduced,none,68.0,68.0,61.0,Intermediate,Intermediate,Intermediate
+483,male,group A,high school,standard,none,59.0,52.0,46.0,Intermediate,Intermediate,Intermediate
+484,female,group B,associate's degree,standard,none,49.0,52.0,54.0,Intermediate,Intermediate,Intermediate
+485,male,group C,high school,standard,none,70.0,74.0,71.0,Intermediate,Intermediate,Intermediate
+486,male,group D,some college,free/reduced,none,61.0,47.0,56.0,Intermediate,Intermediate,Intermediate
+487,female,group C,associate's degree,free/reduced,none,60.0,75.0,74.0,Intermediate,Intermediate,Intermediate
+488,male,group B,some high school,standard,completed,64.0,53.0,57.0,Intermediate,Intermediate,Intermediate
+489,male,group A,associate's degree,free/reduced,completed,79.0,82.0,82.0,Advanced,Advanced,Advanced
+490,female,group A,associate's degree,free/reduced,none,65.0,85.0,76.0,Intermediate,Advanced,Advanced
+491,female,group C,associate's degree,standard,none,64.0,64.0,70.0,Intermediate,Intermediate,Intermediate
+492,female,group C,some college,standard,none,83.0,83.0,90.0,Advanced,Advanced,Advanced
+493,female,group C,bachelor's degree,standard,none,81.0,88.0,90.0,Advanced,Advanced,Advanced
+494,female,group B,high school,standard,none,54.0,64.0,68.0,Intermediate,Intermediate,Intermediate
+495,male,group D,high school,standard,completed,68.0,64.0,66.0,Intermediate,Intermediate,Intermediate
+496,female,group C,some college,standard,none,54.0,48.0,52.0,Intermediate,Intermediate,Intermediate
+497,female,group D,some college,free/reduced,completed,59.0,78.0,76.0,Intermediate,Advanced,Advanced
+498,female,group B,some high school,standard,none,66.0,69.0,68.0,Intermediate,Intermediate,Intermediate
+499,male,group E,some college,standard,none,76.0,71.0,72.0,Advanced,Intermediate,Intermediate
+500,female,group D,master's degree,standard,none,74.0,79.0,82.0,Intermediate,Advanced,Advanced
+501,female,group B,associate's degree,standard,completed,94.0,87.0,92.0,Master,Advanced,Master
+502,male,group C,some college,free/reduced,none,63.0,61.0,54.0,Intermediate,Intermediate,Intermediate
+503,female,group E,associate's degree,standard,completed,95.0,89.0,92.0,Master,Advanced,Master
+504,female,group D,master's degree,free/reduced,none,40.0,59.0,54.0,Elementary,Intermediate,Intermediate
+505,female,group B,some high school,standard,none,82.0,82.0,80.0,Advanced,Advanced,Advanced
+506,male,group A,high school,standard,none,68.0,70.0,66.0,Intermediate,Intermediate,Intermediate
+507,male,group B,bachelor's degree,free/reduced,none,55.0,59.0,54.0,Intermediate,Intermediate,Intermediate
+508,male,group C,master's degree,standard,none,79.0,78.0,77.0,Advanced,Advanced,Advanced
+509,female,group C,bachelor's degree,standard,none,86.0,92.0,87.0,Advanced,Master,Advanced
+510,male,group D,some college,standard,none,76.0,71.0,73.0,Advanced,Intermediate,Intermediate
+511,male,group A,some high school,standard,none,64.0,50.0,43.0,Intermediate,Intermediate,Elementary
+512,male,group D,some high school,free/reduced,none,62.0,49.0,52.0,Intermediate,Intermediate,Intermediate
+513,female,group B,some high school,standard,completed,54.0,61.0,62.0,Intermediate,Intermediate,Intermediate
+514,female,group B,master's degree,free/reduced,completed,77.0,97.0,94.0,Advanced,Master,Master
+515,female,group C,some high school,standard,completed,76.0,87.0,85.0,Advanced,Advanced,Advanced
+516,female,group D,some college,standard,none,74.0,89.0,84.0,Intermediate,Advanced,Advanced
+517,female,group E,some college,standard,completed,66.0,74.0,73.0,Intermediate,Intermediate,Intermediate
+518,female,group D,some high school,standard,completed,66.0,78.0,78.0,Intermediate,Advanced,Advanced
+519,female,group B,high school,free/reduced,completed,67.0,78.0,79.0,Intermediate,Advanced,Advanced
+520,male,group D,some college,standard,none,71.0,49.0,52.0,Intermediate,Intermediate,Intermediate
+521,female,group C,associate's degree,standard,none,91.0,86.0,84.0,Master,Advanced,Advanced
+522,male,group D,bachelor's degree,standard,none,69.0,58.0,57.0,Intermediate,Intermediate,Intermediate
+523,male,group C,master's degree,free/reduced,none,54.0,59.0,50.0,Intermediate,Intermediate,Intermediate
+524,male,group C,high school,standard,completed,53.0,52.0,49.0,Intermediate,Intermediate,Intermediate
+525,male,group E,some college,standard,none,68.0,60.0,59.0,Intermediate,Intermediate,Intermediate
+526,male,group C,some high school,free/reduced,completed,56.0,61.0,60.0,Intermediate,Intermediate,Intermediate
+527,female,group C,high school,free/reduced,none,36.0,53.0,43.0,Elementary,Intermediate,Elementary
+528,female,group D,bachelor's degree,free/reduced,none,29.0,41.0,47.0,Elementary,Elementary,Intermediate
+529,female,group C,associate's degree,standard,none,62.0,74.0,70.0,Intermediate,Intermediate,Intermediate
+530,female,group C,associate's degree,standard,completed,68.0,67.0,73.0,Intermediate,Intermediate,Intermediate
+531,female,group C,some high school,standard,none,47.0,54.0,53.0,Intermediate,Intermediate,Intermediate
+532,male,group E,associate's degree,standard,completed,62.0,61.0,58.0,Intermediate,Intermediate,Intermediate
+533,female,group E,associate's degree,standard,completed,79.0,88.0,94.0,Advanced,Advanced,Master
+534,male,group B,high school,standard,completed,73.0,69.0,68.0,Intermediate,Intermediate,Intermediate
+535,female,group C,bachelor's degree,free/reduced,completed,66.0,83.0,83.0,Intermediate,Advanced,Advanced
+536,male,group C,associate's degree,standard,completed,51.0,60.0,58.0,Intermediate,Intermediate,Intermediate
+537,female,group D,high school,standard,none,51.0,66.0,62.0,Intermediate,Intermediate,Intermediate
+538,male,group E,bachelor's degree,standard,completed,85.0,66.0,71.0,Advanced,Intermediate,Intermediate
+539,male,group A,associate's degree,standard,completed,97.0,92.0,86.0,Master,Master,Advanced
+540,male,group C,high school,standard,completed,75.0,69.0,68.0,Intermediate,Intermediate,Intermediate
+541,male,group D,associate's degree,free/reduced,completed,79.0,82.0,80.0,Advanced,Advanced,Advanced
+542,female,group C,associate's degree,standard,none,81.0,77.0,79.0,Advanced,Advanced,Advanced
+543,female,group D,associate's degree,standard,none,82.0,95.0,89.0,Advanced,Master,Advanced
+544,female,group D,master's degree,standard,none,64.0,63.0,66.0,Intermediate,Intermediate,Intermediate
+545,male,group E,some high school,free/reduced,completed,78.0,83.0,80.0,Advanced,Advanced,Advanced
+546,female,group A,some high school,standard,completed,92.0,100.0,97.0,Master,Master,Master
+547,male,group C,high school,standard,completed,72.0,67.0,64.0,Intermediate,Intermediate,Intermediate
+548,female,group C,high school,free/reduced,none,62.0,67.0,64.0,Intermediate,Intermediate,Intermediate
+549,male,group C,master's degree,standard,none,79.0,72.0,69.0,Advanced,Intermediate,Intermediate
+550,male,group C,some high school,free/reduced,none,79.0,76.0,65.0,Advanced,Advanced,Intermediate
+551,male,group B,bachelor's degree,free/reduced,completed,87.0,90.0,88.0,Advanced,Advanced,Advanced
+552,female,group B,associate's degree,standard,none,40.0,48.0,50.0,Elementary,Intermediate,Intermediate
+553,male,group D,some college,free/reduced,none,77.0,62.0,64.0,Advanced,Intermediate,Intermediate
+554,male,group E,associate's degree,standard,none,53.0,45.0,40.0,Intermediate,Elementary,Elementary
+555,female,group C,some college,free/reduced,none,32.0,39.0,33.0,Elementary,Elementary,Elementary
+556,female,group C,associate's degree,standard,completed,55.0,72.0,79.0,Intermediate,Intermediate,Advanced
+557,male,group C,master's degree,free/reduced,none,61.0,67.0,66.0,Intermediate,Intermediate,Intermediate
+558,female,group B,associate's degree,free/reduced,none,53.0,70.0,70.0,Intermediate,Intermediate,Intermediate
+559,male,group D,some high school,standard,none,73.0,66.0,62.0,Intermediate,Intermediate,Intermediate
+560,female,group D,some college,standard,completed,74.0,75.0,79.0,Intermediate,Intermediate,Advanced
+561,female,group C,some college,standard,none,63.0,74.0,74.0,Intermediate,Intermediate,Intermediate
+562,male,group C,bachelor's degree,standard,completed,96.0,90.0,92.0,Master,Advanced,Master
+563,female,group D,some college,free/reduced,completed,63.0,80.0,80.0,Intermediate,Advanced,Advanced
+564,male,group B,bachelor's degree,free/reduced,none,48.0,51.0,46.0,Intermediate,Intermediate,Intermediate
+565,male,group B,associate's degree,standard,none,48.0,43.0,45.0,Intermediate,Elementary,Elementary
+566,female,group E,bachelor's degree,free/reduced,completed,92.0,100.0,100.0,Master,Master,Master
+567,female,group D,master's degree,free/reduced,completed,61.0,71.0,78.0,Intermediate,Intermediate,Advanced
+568,male,group B,high school,free/reduced,none,63.0,48.0,47.0,Intermediate,Intermediate,Intermediate
+569,male,group D,bachelor's degree,free/reduced,none,68.0,68.0,67.0,Intermediate,Intermediate,Intermediate
+570,male,group B,some college,standard,completed,71.0,75.0,70.0,Intermediate,Intermediate,Intermediate
+571,male,group A,bachelor's degree,standard,none,91.0,96.0,92.0,Master,Master,Master
+572,female,group C,some college,standard,none,53.0,62.0,56.0,Intermediate,Intermediate,Intermediate
+573,female,group C,high school,free/reduced,completed,50.0,66.0,64.0,Intermediate,Intermediate,Intermediate
+574,female,group E,high school,standard,none,74.0,81.0,71.0,Intermediate,Advanced,Intermediate
+575,male,group A,associate's degree,free/reduced,completed,40.0,55.0,53.0,Elementary,Intermediate,Intermediate
+576,male,group A,some college,standard,completed,61.0,51.0,52.0,Intermediate,Intermediate,Intermediate
+577,female,group B,high school,standard,none,81.0,91.0,89.0,Advanced,Master,Advanced
+578,female,group B,some college,free/reduced,completed,48.0,56.0,58.0,Intermediate,Intermediate,Intermediate
+579,female,group D,master's degree,standard,none,53.0,61.0,68.0,Intermediate,Intermediate,Intermediate
+580,female,group D,some high school,standard,none,81.0,97.0,96.0,Advanced,Master,Master
+581,female,group E,some high school,standard,none,77.0,79.0,80.0,Advanced,Advanced,Advanced
+582,female,group D,bachelor's degree,free/reduced,none,63.0,73.0,78.0,Intermediate,Intermediate,Advanced
+583,female,group D,associate's degree,standard,completed,73.0,75.0,80.0,Intermediate,Intermediate,Advanced
+584,female,group D,some college,standard,none,69.0,77.0,77.0,Intermediate,Advanced,Advanced
+585,female,group C,associate's degree,standard,none,65.0,76.0,76.0,Intermediate,Advanced,Advanced
+586,female,group A,high school,standard,none,55.0,73.0,73.0,Intermediate,Intermediate,Intermediate
+587,female,group C,bachelor's degree,free/reduced,none,44.0,63.0,62.0,Elementary,Intermediate,Intermediate
+588,female,group C,some college,standard,none,54.0,64.0,65.0,Intermediate,Intermediate,Intermediate
+589,female,group A,some high school,standard,none,48.0,66.0,65.0,Intermediate,Intermediate,Intermediate
+590,male,group C,some college,free/reduced,none,58.0,57.0,54.0,Intermediate,Intermediate,Intermediate
+591,male,group A,some high school,standard,none,71.0,62.0,50.0,Intermediate,Intermediate,Intermediate
+592,male,group E,bachelor's degree,standard,none,68.0,68.0,64.0,Intermediate,Intermediate,Intermediate
+593,female,group E,high school,standard,none,74.0,76.0,73.0,Intermediate,Advanced,Intermediate
+594,female,group C,bachelor's degree,standard,completed,92.0,100.0,99.0,Master,Master,Master
+595,female,group C,bachelor's degree,standard,completed,56.0,79.0,72.0,Intermediate,Advanced,Intermediate
+596,male,group B,high school,free/reduced,none,30.0,29.0,25.875,Elementary,Elementary,Elementary
+597,male,group A,some high school,standard,none,53.0,54.0,48.0,Intermediate,Intermediate,Intermediate
+598,female,group D,high school,standard,none,69.0,77.0,73.0,Intermediate,Advanced,Intermediate
+599,female,group D,some high school,standard,none,65.0,82.0,81.0,Intermediate,Advanced,Advanced
+600,female,group D,master's degree,standard,none,54.0,60.0,63.0,Intermediate,Intermediate,Intermediate
+601,female,group C,high school,standard,none,29.0,29.0,30.0,Elementary,Elementary,Elementary
+602,female,group E,some college,standard,none,76.0,78.0,80.0,Advanced,Advanced,Advanced
+603,male,group D,high school,free/reduced,none,60.0,57.0,51.0,Intermediate,Intermediate,Intermediate
+604,male,group D,master's degree,free/reduced,completed,84.0,89.0,90.0,Advanced,Advanced,Advanced
+605,male,group C,some high school,standard,none,75.0,72.0,62.0,Intermediate,Intermediate,Intermediate
+606,female,group C,associate's degree,standard,none,85.0,84.0,82.0,Advanced,Advanced,Advanced
+607,female,group C,master's degree,free/reduced,none,40.0,58.0,54.0,Elementary,Intermediate,Intermediate
+608,female,group E,some college,standard,none,61.0,64.0,62.0,Intermediate,Intermediate,Intermediate
+609,female,group B,associate's degree,standard,none,58.0,63.0,65.0,Intermediate,Intermediate,Intermediate
+610,male,group D,some college,free/reduced,completed,69.0,60.0,63.0,Intermediate,Intermediate,Intermediate
+611,female,group C,some college,standard,none,58.0,59.0,66.0,Intermediate,Intermediate,Intermediate
+612,male,group C,bachelor's degree,standard,completed,94.0,90.0,91.0,Master,Advanced,Master
+613,female,group C,associate's degree,standard,none,65.0,77.0,74.0,Intermediate,Advanced,Intermediate
+614,female,group A,associate's degree,standard,none,82.0,93.0,93.0,Advanced,Master,Master
+615,female,group C,high school,standard,none,60.0,68.0,72.0,Intermediate,Intermediate,Intermediate
+616,female,group E,bachelor's degree,standard,none,37.0,45.0,38.0,Elementary,Elementary,Elementary
+617,male,group D,bachelor's degree,standard,none,88.0,78.0,83.0,Advanced,Advanced,Advanced
+618,male,group D,master's degree,standard,none,95.0,81.0,84.0,Master,Advanced,Advanced
+619,male,group C,associate's degree,free/reduced,completed,65.0,73.0,68.0,Intermediate,Intermediate,Intermediate
+620,female,group C,high school,free/reduced,none,35.0,61.0,54.0,Elementary,Intermediate,Intermediate
+621,male,group B,bachelor's degree,free/reduced,none,62.0,63.0,56.0,Intermediate,Intermediate,Intermediate
+622,male,group C,high school,free/reduced,completed,58.0,51.0,52.0,Intermediate,Intermediate,Intermediate
+623,male,group A,some college,standard,completed,100.0,96.0,86.0,Master,Master,Advanced
+624,female,group E,bachelor's degree,free/reduced,none,61.0,58.0,62.0,Intermediate,Intermediate,Intermediate
+625,male,group D,some college,standard,completed,100.0,97.0,99.0,Master,Master,Master
+626,male,group B,associate's degree,free/reduced,completed,69.0,70.0,63.0,Intermediate,Intermediate,Intermediate
+627,male,group D,associate's degree,standard,none,61.0,48.0,46.0,Intermediate,Intermediate,Intermediate
+628,male,group D,some college,free/reduced,none,49.0,57.0,46.0,Intermediate,Intermediate,Intermediate
+629,female,group C,some high school,standard,completed,44.0,51.0,55.0,Elementary,Intermediate,Intermediate
+630,male,group D,some college,standard,none,67.0,64.0,70.0,Intermediate,Intermediate,Intermediate
+631,male,group B,high school,standard,none,79.0,60.0,65.0,Advanced,Intermediate,Intermediate
+632,female,group B,bachelor's degree,standard,completed,66.0,74.0,81.0,Intermediate,Intermediate,Advanced
+633,female,group C,high school,standard,none,75.0,88.0,85.0,Intermediate,Advanced,Advanced
+634,male,group D,some high school,standard,none,84.0,84.0,80.0,Advanced,Advanced,Advanced
+635,male,group A,high school,standard,none,71.0,74.0,64.0,Intermediate,Intermediate,Intermediate
+636,female,group B,high school,free/reduced,completed,67.0,80.0,81.0,Intermediate,Advanced,Advanced
+637,female,group D,some high school,standard,completed,80.0,92.0,88.0,Advanced,Master,Advanced
+638,male,group E,some college,standard,none,86.0,76.0,74.0,Advanced,Advanced,Intermediate
+639,female,group D,associate's degree,standard,none,76.0,74.0,73.0,Advanced,Intermediate,Intermediate
+640,male,group D,high school,standard,none,41.0,52.0,51.0,Elementary,Intermediate,Intermediate
+641,female,group D,associate's degree,free/reduced,completed,74.0,88.0,90.0,Intermediate,Advanced,Advanced
+642,female,group B,some high school,free/reduced,none,72.0,81.0,79.0,Intermediate,Advanced,Advanced
+643,female,group E,high school,standard,completed,74.0,79.0,80.0,Intermediate,Advanced,Advanced
+644,male,group B,high school,standard,none,70.0,65.0,60.0,Intermediate,Intermediate,Intermediate
+645,female,group B,bachelor's degree,standard,completed,65.0,81.0,81.0,Intermediate,Advanced,Advanced
+646,female,group D,associate's degree,standard,none,59.0,70.0,65.0,Intermediate,Intermediate,Intermediate
+647,female,group E,high school,free/reduced,none,64.0,62.0,68.0,Intermediate,Intermediate,Intermediate
+648,female,group B,high school,standard,none,50.0,53.0,55.0,Intermediate,Intermediate,Intermediate
+649,female,group D,some college,standard,completed,69.0,79.0,81.0,Intermediate,Advanced,Advanced
+650,male,group C,some high school,free/reduced,completed,51.0,56.0,53.0,Intermediate,Intermediate,Intermediate
+651,female,group A,high school,standard,completed,68.0,80.0,76.0,Intermediate,Advanced,Advanced
+652,female,group D,some college,standard,completed,85.0,86.0,98.0,Advanced,Advanced,Master
+653,female,group A,associate's degree,standard,completed,65.0,70.0,74.0,Intermediate,Intermediate,Intermediate
+654,female,group B,some high school,standard,none,73.0,79.0,79.0,Intermediate,Advanced,Advanced
+655,female,group B,some college,standard,none,62.0,67.0,67.0,Intermediate,Intermediate,Intermediate
+656,male,group C,associate's degree,free/reduced,none,77.0,67.0,64.0,Advanced,Intermediate,Intermediate
+657,male,group D,some high school,standard,none,69.0,66.0,61.0,Intermediate,Intermediate,Intermediate
+658,female,group D,associate's degree,free/reduced,none,43.0,60.0,58.0,Elementary,Intermediate,Intermediate
+659,male,group D,associate's degree,standard,none,90.0,87.0,85.0,Advanced,Advanced,Advanced
+660,male,group C,some college,free/reduced,none,74.0,77.0,73.0,Intermediate,Advanced,Intermediate
+661,male,group C,some high school,standard,none,73.0,66.0,63.0,Intermediate,Intermediate,Intermediate
+662,female,group D,some college,free/reduced,none,55.0,71.0,69.0,Intermediate,Intermediate,Intermediate
+663,female,group C,high school,standard,none,65.0,69.0,67.0,Intermediate,Intermediate,Intermediate
+664,male,group D,associate's degree,standard,none,80.0,63.0,63.0,Advanced,Intermediate,Intermediate
+665,female,group C,some high school,free/reduced,completed,50.0,60.0,60.0,Intermediate,Intermediate,Intermediate
+666,female,group C,some college,free/reduced,completed,63.0,73.0,71.0,Intermediate,Intermediate,Intermediate
+667,female,group B,bachelor's degree,free/reduced,none,77.0,85.0,87.0,Advanced,Advanced,Advanced
+668,male,group C,some college,standard,none,73.0,74.0,61.0,Intermediate,Intermediate,Intermediate
+669,male,group D,associate's degree,standard,completed,81.0,72.0,77.0,Advanced,Intermediate,Advanced
+670,female,group C,high school,free/reduced,none,66.0,76.0,68.0,Intermediate,Advanced,Intermediate
+671,male,group D,associate's degree,free/reduced,none,52.0,57.0,50.0,Intermediate,Intermediate,Intermediate
+672,female,group C,some college,standard,none,69.0,78.0,76.0,Intermediate,Advanced,Advanced
+673,female,group C,associate's degree,standard,completed,65.0,84.0,84.0,Intermediate,Advanced,Advanced
+674,female,group D,high school,standard,completed,69.0,77.0,78.0,Intermediate,Advanced,Advanced
+675,female,group B,some college,standard,completed,50.0,64.0,66.0,Intermediate,Intermediate,Intermediate
+676,female,group E,some college,standard,completed,73.0,78.0,76.0,Intermediate,Advanced,Advanced
+677,female,group C,some high school,standard,completed,70.0,82.0,76.0,Intermediate,Advanced,Advanced
+678,male,group D,associate's degree,free/reduced,none,81.0,75.0,78.0,Advanced,Intermediate,Advanced
+679,male,group D,some college,free/reduced,none,63.0,61.0,60.0,Intermediate,Intermediate,Intermediate
+680,female,group D,high school,standard,none,67.0,72.0,74.0,Intermediate,Intermediate,Intermediate
+681,male,group B,high school,standard,none,60.0,68.0,60.0,Intermediate,Intermediate,Intermediate
+682,male,group B,high school,standard,none,62.0,55.0,54.0,Intermediate,Intermediate,Intermediate
+683,female,group C,some high school,free/reduced,completed,29.0,40.0,44.0,Elementary,Elementary,Elementary
+684,male,group B,some college,standard,completed,62.0,66.0,68.0,Intermediate,Intermediate,Intermediate
+685,female,group E,master's degree,standard,completed,94.0,99.0,100.0,Master,Master,Master
+686,male,group E,some college,standard,completed,85.0,75.0,68.0,Advanced,Intermediate,Intermediate
+687,male,group D,associate's degree,free/reduced,none,77.0,78.0,73.0,Advanced,Advanced,Intermediate
+688,male,group A,high school,free/reduced,none,53.0,58.0,44.0,Intermediate,Intermediate,Elementary
+689,male,group E,some college,free/reduced,none,93.0,90.0,83.0,Master,Advanced,Advanced
+690,female,group C,associate's degree,standard,none,49.0,53.0,53.0,Intermediate,Intermediate,Intermediate
+691,female,group E,associate's degree,free/reduced,none,73.0,76.0,78.0,Intermediate,Advanced,Advanced
+692,female,group C,bachelor's degree,free/reduced,completed,66.0,74.0,81.0,Intermediate,Intermediate,Advanced
+693,female,group D,associate's degree,standard,none,77.0,77.0,73.0,Advanced,Advanced,Intermediate
+694,female,group C,some high school,standard,none,49.0,63.0,56.0,Intermediate,Intermediate,Intermediate
+695,female,group D,some college,free/reduced,none,79.0,89.0,86.0,Advanced,Advanced,Advanced
+696,female,group C,associate's degree,standard,completed,75.0,82.0,90.0,Intermediate,Advanced,Advanced
+697,female,group A,bachelor's degree,standard,none,59.0,72.0,70.0,Intermediate,Intermediate,Intermediate
+698,female,group D,associate's degree,standard,completed,57.0,78.0,79.0,Intermediate,Advanced,Advanced
+699,male,group C,high school,free/reduced,none,66.0,66.0,59.0,Intermediate,Intermediate,Intermediate
+700,female,group E,bachelor's degree,standard,completed,79.0,81.0,82.0,Advanced,Advanced,Advanced
+701,female,group B,some high school,standard,none,57.0,67.0,72.0,Intermediate,Intermediate,Intermediate
+702,male,group A,bachelor's degree,standard,completed,87.0,84.0,87.0,Advanced,Advanced,Advanced
+703,female,group D,some college,standard,none,63.0,64.0,67.0,Intermediate,Intermediate,Intermediate
+704,female,group B,some high school,free/reduced,completed,59.0,63.0,64.0,Intermediate,Intermediate,Intermediate
+705,male,group A,bachelor's degree,free/reduced,none,62.0,72.0,65.0,Intermediate,Intermediate,Intermediate
+706,male,group D,high school,standard,none,46.0,34.0,36.0,Intermediate,Elementary,Elementary
+707,male,group C,some college,standard,none,66.0,59.0,52.0,Intermediate,Intermediate,Intermediate
+708,male,group D,high school,standard,none,89.0,87.0,79.0,Advanced,Advanced,Advanced
+709,female,group D,associate's degree,free/reduced,completed,42.0,61.0,58.0,Elementary,Intermediate,Intermediate
+710,male,group C,some college,standard,completed,93.0,84.0,90.0,Master,Advanced,Advanced
+711,female,group E,some high school,standard,completed,80.0,85.0,85.0,Advanced,Advanced,Advanced
+712,female,group D,some college,standard,none,98.0,100.0,99.0,Master,Master,Master
+713,male,group D,master's degree,standard,none,81.0,81.0,84.0,Advanced,Advanced,Advanced
+714,female,group B,some high school,standard,completed,60.0,70.0,74.0,Intermediate,Intermediate,Intermediate
+715,female,group B,associate's degree,free/reduced,completed,76.0,94.0,87.0,Advanced,Master,Advanced
+716,male,group C,associate's degree,standard,completed,73.0,78.0,72.0,Intermediate,Advanced,Intermediate
+717,female,group C,associate's degree,standard,completed,96.0,96.0,99.0,Master,Master,Master
+718,female,group C,high school,standard,none,76.0,76.0,74.0,Advanced,Advanced,Intermediate
+719,male,group E,associate's degree,free/reduced,completed,91.0,73.0,80.0,Master,Intermediate,Advanced
+720,female,group C,some college,free/reduced,none,62.0,72.0,70.0,Intermediate,Intermediate,Intermediate
+721,male,group D,some high school,free/reduced,completed,55.0,59.0,59.0,Intermediate,Intermediate,Intermediate
+722,female,group B,some high school,free/reduced,completed,74.0,90.0,88.0,Intermediate,Advanced,Advanced
+723,male,group C,high school,standard,none,50.0,48.0,42.0,Intermediate,Intermediate,Elementary
+724,male,group B,some college,standard,none,47.0,43.0,41.0,Intermediate,Elementary,Elementary
+725,male,group E,some college,standard,completed,81.0,74.0,71.0,Advanced,Intermediate,Intermediate
+726,female,group E,associate's degree,standard,completed,65.0,75.0,77.0,Intermediate,Intermediate,Advanced
+727,male,group E,some high school,standard,completed,68.0,51.0,57.0,Intermediate,Intermediate,Intermediate
+728,female,group D,high school,free/reduced,none,73.0,92.0,84.0,Intermediate,Master,Advanced
+729,male,group C,some college,standard,none,53.0,39.0,37.0,Intermediate,Elementary,Elementary
+730,female,group B,associate's degree,free/reduced,completed,68.0,77.0,80.0,Intermediate,Advanced,Advanced
+731,male,group A,some high school,free/reduced,none,55.0,46.0,43.0,Intermediate,Intermediate,Elementary
+732,female,group C,some college,standard,completed,87.0,89.0,94.0,Advanced,Advanced,Master
+733,male,group D,some high school,standard,none,55.0,47.0,44.0,Intermediate,Intermediate,Elementary
+734,female,group E,some college,free/reduced,none,53.0,58.0,57.0,Intermediate,Intermediate,Intermediate
+735,male,group C,master's degree,standard,none,67.0,57.0,59.0,Intermediate,Intermediate,Intermediate
+736,male,group C,associate's degree,standard,none,92.0,79.0,84.0,Master,Advanced,Advanced
+737,female,group B,some college,free/reduced,completed,53.0,66.0,73.0,Intermediate,Intermediate,Intermediate
+738,male,group D,associate's degree,standard,none,81.0,71.0,73.0,Advanced,Intermediate,Intermediate
+739,male,group C,high school,free/reduced,none,61.0,60.0,55.0,Intermediate,Intermediate,Intermediate
+740,male,group D,bachelor's degree,standard,none,80.0,73.0,72.0,Advanced,Intermediate,Intermediate
+741,female,group A,associate's degree,free/reduced,none,37.0,57.0,56.0,Elementary,Intermediate,Intermediate
+742,female,group C,high school,standard,none,81.0,84.0,82.0,Advanced,Advanced,Advanced
+743,female,group C,associate's degree,standard,completed,59.0,73.0,72.0,Intermediate,Intermediate,Intermediate
+744,male,group B,some college,free/reduced,none,55.0,55.0,47.0,Intermediate,Intermediate,Intermediate
+745,male,group D,associate's degree,standard,none,72.0,79.0,74.0,Intermediate,Advanced,Intermediate
+746,male,group D,high school,standard,none,69.0,75.0,71.0,Intermediate,Intermediate,Intermediate
+747,male,group C,some college,standard,none,69.0,64.0,68.0,Intermediate,Intermediate,Intermediate
+748,female,group C,bachelor's degree,free/reduced,none,50.0,60.0,59.0,Intermediate,Intermediate,Intermediate
+749,male,group B,some college,standard,completed,87.0,84.0,86.0,Advanced,Advanced,Advanced
+750,male,group D,some high school,standard,completed,71.0,69.0,68.0,Intermediate,Intermediate,Intermediate
+751,male,group E,some college,standard,none,68.0,72.0,65.0,Intermediate,Intermediate,Intermediate
+752,male,group C,master's degree,free/reduced,completed,79.0,77.0,75.0,Advanced,Advanced,Intermediate
+753,female,group C,some high school,standard,completed,77.0,90.0,85.0,Advanced,Advanced,Advanced
+754,male,group C,associate's degree,free/reduced,none,58.0,55.0,53.0,Intermediate,Intermediate,Intermediate
+755,female,group E,associate's degree,standard,none,84.0,95.0,92.0,Advanced,Master,Master
+756,male,group D,some college,standard,none,55.0,58.0,52.0,Intermediate,Intermediate,Intermediate
+757,male,group E,bachelor's degree,free/reduced,completed,70.0,68.0,72.0,Intermediate,Intermediate,Intermediate
+758,female,group D,some college,free/reduced,completed,52.0,59.0,65.0,Intermediate,Intermediate,Intermediate
+759,male,group B,some college,standard,completed,69.0,77.0,77.0,Intermediate,Advanced,Advanced
+760,female,group C,high school,free/reduced,none,53.0,72.0,64.0,Intermediate,Intermediate,Intermediate
+761,female,group D,some high school,standard,none,48.0,58.0,54.0,Intermediate,Intermediate,Intermediate
+762,male,group D,some high school,standard,completed,78.0,81.0,86.0,Advanced,Advanced,Advanced
+763,female,group B,high school,standard,none,62.0,62.0,63.0,Intermediate,Intermediate,Intermediate
+764,male,group D,some college,standard,none,60.0,63.0,59.0,Intermediate,Intermediate,Intermediate
+765,female,group B,high school,standard,none,74.0,72.0,72.0,Intermediate,Intermediate,Intermediate
+766,female,group C,high school,standard,completed,58.0,75.0,77.0,Intermediate,Intermediate,Advanced
+767,male,group B,high school,standard,completed,76.0,62.0,60.0,Advanced,Intermediate,Intermediate
+768,female,group D,some high school,standard,none,68.0,71.0,75.0,Intermediate,Intermediate,Intermediate
+769,male,group A,some college,free/reduced,none,58.0,60.0,57.0,Intermediate,Intermediate,Intermediate
+770,male,group B,high school,standard,none,52.0,48.0,49.0,Intermediate,Intermediate,Intermediate
+771,male,group D,bachelor's degree,standard,none,75.0,73.0,74.0,Intermediate,Intermediate,Intermediate
+772,female,group B,some high school,free/reduced,completed,52.0,67.0,72.0,Intermediate,Intermediate,Intermediate
+773,female,group C,bachelor's degree,free/reduced,none,62.0,78.0,79.0,Intermediate,Advanced,Advanced
+774,male,group B,some college,standard,none,66.0,65.0,60.0,Intermediate,Intermediate,Intermediate
+775,female,group B,some high school,free/reduced,none,49.0,58.0,55.0,Intermediate,Intermediate,Intermediate
+776,female,group B,high school,standard,none,66.0,72.0,70.0,Intermediate,Intermediate,Intermediate
+777,female,group C,some college,free/reduced,none,35.0,44.0,43.0,Elementary,Elementary,Elementary
+778,female,group A,some college,standard,completed,72.0,79.0,82.0,Intermediate,Advanced,Advanced
+779,male,group E,associate's degree,standard,completed,94.0,85.0,82.0,Master,Advanced,Advanced
+780,female,group D,associate's degree,free/reduced,none,46.0,56.0,57.0,Intermediate,Intermediate,Intermediate
+781,female,group B,master's degree,standard,none,77.0,90.0,84.0,Advanced,Advanced,Advanced
+782,female,group B,high school,free/reduced,completed,76.0,85.0,82.0,Advanced,Advanced,Advanced
+783,female,group C,associate's degree,standard,completed,52.0,59.0,62.0,Intermediate,Intermediate,Intermediate
+784,male,group C,bachelor's degree,standard,completed,91.0,81.0,79.0,Master,Advanced,Advanced
+785,female,group B,some high school,standard,completed,32.0,51.0,44.0,Elementary,Intermediate,Elementary
+786,female,group E,some high school,free/reduced,none,72.0,79.0,77.0,Intermediate,Advanced,Advanced
+787,female,group B,some college,standard,none,27.0,38.0,32.0,Elementary,Elementary,Elementary
+788,male,group C,associate's degree,free/reduced,none,68.0,65.0,61.0,Intermediate,Intermediate,Intermediate
+789,female,group C,master's degree,free/reduced,none,52.0,65.0,61.0,Intermediate,Intermediate,Intermediate
+790,female,group B,high school,standard,none,48.0,62.0,60.0,Intermediate,Intermediate,Intermediate
+791,female,group D,some college,free/reduced,none,60.0,66.0,70.0,Intermediate,Intermediate,Intermediate
+792,male,group D,high school,free/reduced,none,66.0,74.0,69.0,Intermediate,Intermediate,Intermediate
+793,male,group E,some high school,standard,completed,89.0,84.0,77.0,Advanced,Advanced,Advanced
+794,female,group B,high school,standard,none,42.0,52.0,51.0,Elementary,Intermediate,Intermediate
+795,female,group E,associate's degree,free/reduced,completed,57.0,68.0,73.0,Intermediate,Intermediate,Intermediate
+796,male,group D,high school,standard,none,70.0,70.0,70.0,Intermediate,Intermediate,Intermediate
+797,female,group E,associate's degree,free/reduced,none,70.0,84.0,81.0,Intermediate,Advanced,Advanced
+798,male,group E,some college,standard,none,69.0,60.0,54.0,Intermediate,Intermediate,Intermediate
+799,female,group C,associate's degree,standard,none,52.0,55.0,57.0,Intermediate,Intermediate,Intermediate
+800,male,group C,some high school,standard,completed,67.0,73.0,68.0,Intermediate,Intermediate,Intermediate
+801,male,group C,some high school,standard,completed,76.0,80.0,73.0,Advanced,Advanced,Intermediate
+802,female,group E,associate's degree,standard,none,87.0,94.0,95.0,Advanced,Master,Master
+803,female,group B,some college,standard,none,82.0,85.0,87.0,Advanced,Advanced,Advanced
+804,female,group C,some college,standard,none,73.0,76.0,78.0,Intermediate,Advanced,Advanced
+805,male,group A,some college,free/reduced,none,75.0,81.0,74.0,Intermediate,Advanced,Intermediate
+806,female,group D,some college,free/reduced,none,64.0,74.0,75.0,Intermediate,Intermediate,Intermediate
+807,female,group E,high school,free/reduced,none,41.0,45.0,40.0,Elementary,Elementary,Elementary
+808,male,group C,high school,standard,none,90.0,75.0,69.0,Advanced,Intermediate,Intermediate
+809,male,group B,bachelor's degree,standard,none,59.0,54.0,51.0,Intermediate,Intermediate,Intermediate
+810,male,group A,some high school,standard,none,51.0,31.0,36.0,Intermediate,Elementary,Elementary
+811,male,group A,high school,free/reduced,none,45.0,47.0,49.0,Elementary,Intermediate,Intermediate
+812,female,group C,master's degree,standard,completed,54.0,64.0,67.0,Intermediate,Intermediate,Intermediate
+813,male,group E,some high school,standard,completed,87.0,84.0,76.0,Advanced,Advanced,Advanced
+814,female,group C,high school,standard,none,72.0,80.0,83.0,Intermediate,Advanced,Advanced
+815,male,group B,some high school,standard,completed,94.0,86.0,87.0,Master,Advanced,Advanced
+816,female,group A,bachelor's degree,standard,none,45.0,59.0,64.0,Elementary,Intermediate,Intermediate
+817,male,group D,bachelor's degree,free/reduced,completed,61.0,70.0,76.0,Intermediate,Intermediate,Advanced
+818,female,group B,high school,free/reduced,none,60.0,72.0,68.0,Intermediate,Intermediate,Intermediate
+819,female,group C,some high school,standard,none,77.0,91.0,88.0,Advanced,Master,Advanced
+820,female,group A,some high school,standard,completed,85.0,90.0,92.0,Advanced,Advanced,Master
+821,female,group D,bachelor's degree,free/reduced,none,78.0,90.0,93.0,Advanced,Advanced,Master
+822,male,group E,some college,free/reduced,completed,49.0,52.0,51.0,Intermediate,Intermediate,Intermediate
+823,female,group B,high school,free/reduced,none,71.0,87.0,82.0,Intermediate,Advanced,Advanced
+824,female,group C,some high school,free/reduced,none,48.0,58.0,52.0,Intermediate,Intermediate,Intermediate
+825,male,group C,high school,standard,none,62.0,67.0,58.0,Intermediate,Intermediate,Intermediate
+826,female,group C,associate's degree,free/reduced,completed,56.0,68.0,70.0,Intermediate,Intermediate,Intermediate
+827,female,group C,some high school,standard,none,65.0,69.0,76.0,Intermediate,Intermediate,Advanced
+828,female,group D,some high school,free/reduced,completed,69.0,86.0,81.0,Intermediate,Advanced,Advanced
+829,male,group B,some high school,standard,none,68.0,54.0,53.0,Intermediate,Intermediate,Intermediate
+830,female,group A,some college,free/reduced,none,61.0,60.0,57.0,Intermediate,Intermediate,Intermediate
+831,female,group C,bachelor's degree,free/reduced,completed,74.0,86.0,89.0,Intermediate,Advanced,Advanced
+832,male,group A,bachelor's degree,standard,none,64.0,60.0,58.0,Intermediate,Intermediate,Intermediate
+833,female,group B,high school,standard,completed,77.0,82.0,89.0,Advanced,Advanced,Advanced
+834,male,group B,some college,standard,none,58.0,50.0,45.0,Intermediate,Intermediate,Elementary
+835,female,group C,high school,standard,completed,60.0,64.0,74.0,Intermediate,Intermediate,Intermediate
+836,male,group E,high school,standard,none,73.0,64.0,57.0,Intermediate,Intermediate,Intermediate
+837,female,group A,high school,standard,completed,75.0,82.0,79.0,Intermediate,Advanced,Advanced
+838,male,group B,associate's degree,free/reduced,completed,58.0,57.0,53.0,Intermediate,Intermediate,Intermediate
+839,female,group C,associate's degree,standard,none,66.0,77.0,73.0,Intermediate,Advanced,Intermediate
+840,female,group D,high school,free/reduced,none,39.0,52.0,46.0,Elementary,Intermediate,Intermediate
+841,male,group C,some high school,standard,none,64.0,58.0,51.0,Intermediate,Intermediate,Intermediate
+842,female,group B,high school,free/reduced,completed,27.0,44.0,36.0,Elementary,Elementary,Elementary
+843,male,group B,some college,free/reduced,completed,74.0,77.0,76.0,Intermediate,Advanced,Advanced
+844,female,group D,some high school,free/reduced,completed,40.0,65.0,64.0,Elementary,Intermediate,Intermediate
+845,male,group E,master's degree,standard,none,90.0,85.0,84.0,Advanced,Advanced,Advanced
+846,male,group C,master's degree,standard,completed,91.0,85.0,85.0,Master,Advanced,Advanced
+847,male,group D,high school,standard,none,64.0,54.0,50.0,Intermediate,Intermediate,Intermediate
+848,female,group C,high school,standard,none,59.0,72.0,68.0,Intermediate,Intermediate,Intermediate
+849,male,group D,associate's degree,standard,none,80.0,75.0,69.0,Advanced,Intermediate,Intermediate
+850,male,group C,master's degree,standard,none,71.0,67.0,67.0,Intermediate,Intermediate,Intermediate
+851,female,group A,high school,standard,none,61.0,68.0,63.0,Intermediate,Intermediate,Intermediate
+852,female,group E,some college,standard,none,87.0,85.0,93.0,Advanced,Advanced,Master
+853,male,group E,some high school,standard,none,82.0,67.0,61.0,Advanced,Intermediate,Intermediate
+854,male,group C,some high school,standard,none,62.0,64.0,55.0,Intermediate,Intermediate,Intermediate
+855,female,group B,bachelor's degree,standard,none,97.0,97.0,96.0,Master,Master,Master
+856,male,group B,some college,free/reduced,none,75.0,68.0,65.0,Intermediate,Intermediate,Intermediate
+857,female,group C,bachelor's degree,standard,none,65.0,79.0,81.0,Intermediate,Advanced,Advanced
+858,male,group B,high school,standard,completed,52.0,49.0,46.0,Intermediate,Intermediate,Intermediate
+859,male,group C,associate's degree,free/reduced,none,87.0,73.0,72.0,Advanced,Intermediate,Intermediate
+860,female,group C,associate's degree,standard,none,53.0,62.0,53.0,Intermediate,Intermediate,Intermediate
+861,female,group E,master's degree,free/reduced,none,81.0,86.0,87.0,Advanced,Advanced,Advanced
+862,male,group D,bachelor's degree,free/reduced,completed,39.0,42.0,38.0,Elementary,Elementary,Elementary
+863,female,group C,some college,standard,completed,71.0,71.0,80.0,Intermediate,Intermediate,Advanced
+864,male,group C,associate's degree,standard,none,97.0,93.0,91.0,Master,Master,Master
+865,male,group D,some college,standard,completed,82.0,82.0,88.0,Advanced,Advanced,Advanced
+866,male,group C,high school,free/reduced,none,59.0,53.0,52.0,Intermediate,Intermediate,Intermediate
+867,male,group B,associate's degree,standard,none,61.0,42.0,41.0,Intermediate,Elementary,Elementary
+868,male,group E,associate's degree,free/reduced,completed,78.0,74.0,72.0,Advanced,Intermediate,Intermediate
+869,male,group C,associate's degree,free/reduced,none,49.0,51.0,51.0,Intermediate,Intermediate,Intermediate
+870,male,group B,high school,standard,none,59.0,58.0,47.0,Intermediate,Intermediate,Intermediate
+871,female,group C,some college,standard,completed,70.0,72.0,76.0,Intermediate,Intermediate,Advanced
+872,male,group B,associate's degree,standard,completed,82.0,84.0,78.0,Advanced,Advanced,Advanced
+873,male,group E,associate's degree,free/reduced,none,90.0,90.0,82.0,Advanced,Advanced,Advanced
+874,female,group C,bachelor's degree,free/reduced,none,43.0,62.0,61.0,Elementary,Intermediate,Intermediate
+875,male,group C,some college,free/reduced,none,80.0,64.0,66.0,Advanced,Intermediate,Intermediate
+876,male,group D,some college,standard,none,81.0,82.0,84.0,Advanced,Advanced,Advanced
+877,male,group C,some high school,standard,none,57.0,61.0,54.0,Intermediate,Intermediate,Intermediate
+878,female,group D,some high school,standard,none,59.0,72.0,80.0,Intermediate,Intermediate,Advanced
+879,female,group D,associate's degree,standard,none,64.0,76.0,74.0,Intermediate,Advanced,Intermediate
+880,male,group C,bachelor's degree,standard,completed,63.0,64.0,66.0,Intermediate,Intermediate,Intermediate
+881,female,group E,bachelor's degree,standard,completed,71.0,70.0,70.0,Intermediate,Intermediate,Intermediate
+882,female,group B,high school,free/reduced,none,64.0,73.0,71.0,Intermediate,Intermediate,Intermediate
+883,male,group D,bachelor's degree,free/reduced,none,55.0,46.0,44.0,Intermediate,Intermediate,Elementary
+884,female,group E,associate's degree,standard,none,51.0,51.0,54.0,Intermediate,Intermediate,Intermediate
+885,female,group C,associate's degree,standard,completed,62.0,76.0,80.0,Intermediate,Advanced,Advanced
+886,female,group E,associate's degree,standard,completed,93.0,100.0,95.0,Master,Master,Master
+887,male,group C,high school,free/reduced,none,54.0,72.0,59.0,Intermediate,Intermediate,Intermediate
+888,female,group D,some college,free/reduced,none,69.0,65.0,74.0,Intermediate,Intermediate,Intermediate
+889,male,group D,high school,free/reduced,none,44.0,51.0,48.0,Elementary,Intermediate,Intermediate
+890,female,group E,some college,standard,completed,86.0,85.0,91.0,Advanced,Advanced,Master
+891,female,group E,associate's degree,standard,none,85.0,92.0,85.0,Advanced,Master,Advanced
+892,female,group A,master's degree,free/reduced,none,50.0,67.0,73.0,Intermediate,Intermediate,Intermediate
+893,male,group D,some high school,standard,completed,88.0,74.0,75.0,Advanced,Intermediate,Intermediate
+894,female,group E,associate's degree,standard,none,59.0,62.0,69.0,Intermediate,Intermediate,Intermediate
+895,female,group E,some high school,free/reduced,none,32.0,34.0,38.0,Elementary,Elementary,Elementary
+896,male,group B,high school,free/reduced,none,36.0,29.0,27.0,Elementary,Elementary,Elementary
+897,female,group B,some high school,free/reduced,completed,63.0,78.0,79.0,Intermediate,Advanced,Advanced
+898,male,group D,associate's degree,standard,completed,67.0,54.0,63.0,Intermediate,Intermediate,Intermediate
+899,female,group D,some high school,standard,completed,65.0,78.0,82.0,Intermediate,Advanced,Advanced
+900,male,group D,master's degree,standard,none,85.0,84.0,89.0,Advanced,Advanced,Advanced
+901,female,group C,master's degree,standard,none,73.0,78.0,74.0,Intermediate,Advanced,Intermediate
+902,female,group A,high school,free/reduced,completed,34.0,48.0,41.0,Elementary,Intermediate,Elementary
+903,female,group D,bachelor's degree,free/reduced,completed,93.0,100.0,100.0,Master,Master,Master
+904,female,group D,some high school,free/reduced,none,67.0,84.0,84.0,Intermediate,Advanced,Advanced
+905,male,group D,some college,standard,none,88.0,77.0,77.0,Advanced,Advanced,Advanced
+906,male,group B,high school,standard,none,57.0,48.0,51.0,Intermediate,Intermediate,Intermediate
+907,female,group D,some college,standard,completed,79.0,84.0,91.0,Advanced,Advanced,Master
+908,female,group C,bachelor's degree,free/reduced,none,67.0,75.0,72.0,Intermediate,Intermediate,Intermediate
+909,male,group E,bachelor's degree,standard,completed,70.0,64.0,70.0,Intermediate,Intermediate,Intermediate
+910,male,group D,bachelor's degree,free/reduced,none,50.0,42.0,48.0,Intermediate,Elementary,Intermediate
+911,female,group A,some college,standard,none,69.0,84.0,82.0,Intermediate,Advanced,Advanced
+912,female,group C,bachelor's degree,standard,completed,52.0,61.0,66.0,Intermediate,Intermediate,Intermediate
+913,female,group C,bachelor's degree,free/reduced,completed,47.0,62.0,66.0,Intermediate,Intermediate,Intermediate
+914,female,group B,associate's degree,free/reduced,none,46.0,61.0,55.0,Intermediate,Intermediate,Intermediate
+915,female,group E,some college,standard,none,68.0,70.0,66.0,Intermediate,Intermediate,Intermediate
+916,male,group E,bachelor's degree,standard,completed,100.0,100.0,100.0,Master,Master,Master
+917,female,group C,high school,standard,none,44.0,61.0,52.0,Elementary,Intermediate,Intermediate
+918,female,group C,associate's degree,standard,completed,57.0,77.0,80.0,Intermediate,Advanced,Advanced
+919,male,group B,some college,standard,completed,91.0,96.0,91.0,Master,Master,Master
+920,male,group D,high school,free/reduced,none,69.0,70.0,67.0,Intermediate,Intermediate,Intermediate
+921,female,group C,high school,free/reduced,none,35.0,53.0,46.0,Elementary,Intermediate,Intermediate
+922,male,group D,high school,standard,none,72.0,66.0,66.0,Intermediate,Intermediate,Intermediate
+923,female,group B,associate's degree,free/reduced,none,54.0,65.0,65.0,Intermediate,Intermediate,Intermediate
+924,male,group D,high school,free/reduced,none,74.0,70.0,69.0,Intermediate,Intermediate,Intermediate
+925,male,group E,some high school,standard,completed,74.0,64.0,60.0,Intermediate,Intermediate,Intermediate
+926,male,group E,associate's degree,free/reduced,none,64.0,56.0,52.0,Intermediate,Intermediate,Intermediate
+927,female,group D,high school,free/reduced,completed,65.0,61.0,71.0,Intermediate,Intermediate,Intermediate
+928,male,group E,associate's degree,free/reduced,completed,46.0,43.0,44.0,Intermediate,Elementary,Elementary
+929,female,group C,some high school,free/reduced,none,48.0,56.0,51.0,Intermediate,Intermediate,Intermediate
+930,male,group C,some college,free/reduced,completed,67.0,74.0,70.0,Intermediate,Intermediate,Intermediate
+931,male,group D,some college,free/reduced,none,62.0,57.0,62.0,Intermediate,Intermediate,Intermediate
+932,male,group D,associate's degree,free/reduced,completed,61.0,71.0,73.0,Intermediate,Intermediate,Intermediate
+933,male,group C,bachelor's degree,free/reduced,completed,70.0,75.0,74.0,Intermediate,Intermediate,Intermediate
+934,male,group C,associate's degree,standard,completed,98.0,87.0,90.0,Master,Advanced,Advanced
+935,male,group D,some college,free/reduced,none,70.0,63.0,58.0,Intermediate,Intermediate,Intermediate
+936,male,group A,associate's degree,standard,none,67.0,57.0,53.0,Intermediate,Intermediate,Intermediate
+937,female,group E,high school,free/reduced,none,57.0,58.0,57.0,Intermediate,Intermediate,Intermediate
+938,male,group D,some college,standard,completed,85.0,81.0,85.0,Advanced,Advanced,Advanced
+939,male,group D,some high school,standard,completed,77.0,68.0,69.0,Advanced,Intermediate,Intermediate
+940,male,group C,master's degree,free/reduced,completed,72.0,66.0,72.0,Intermediate,Intermediate,Intermediate
+941,female,group D,master's degree,standard,none,78.0,91.0,96.0,Advanced,Master,Master
+942,male,group C,high school,standard,none,81.0,66.0,64.0,Advanced,Intermediate,Intermediate
+943,male,group A,some high school,free/reduced,completed,61.0,62.0,61.0,Intermediate,Intermediate,Intermediate
+944,female,group B,high school,standard,none,58.0,68.0,61.0,Intermediate,Intermediate,Intermediate
+945,female,group C,associate's degree,standard,none,54.0,61.0,58.0,Intermediate,Intermediate,Intermediate
+946,male,group B,high school,standard,none,82.0,82.0,80.0,Advanced,Advanced,Advanced
+947,female,group D,some college,free/reduced,none,49.0,58.0,60.0,Intermediate,Intermediate,Intermediate
+948,male,group B,some high school,free/reduced,completed,49.0,50.0,52.0,Intermediate,Intermediate,Intermediate
+949,female,group E,high school,free/reduced,completed,57.0,75.0,73.0,Intermediate,Intermediate,Intermediate
+950,male,group E,high school,standard,none,94.0,73.0,71.0,Master,Intermediate,Intermediate
+951,female,group D,some college,standard,completed,75.0,77.0,83.0,Intermediate,Advanced,Advanced
+952,female,group E,some high school,free/reduced,none,74.0,74.0,72.0,Intermediate,Intermediate,Intermediate
+953,male,group C,high school,standard,completed,58.0,52.0,54.0,Intermediate,Intermediate,Intermediate
+954,female,group C,some college,standard,none,62.0,69.0,69.0,Intermediate,Intermediate,Intermediate
+955,male,group E,associate's degree,standard,none,72.0,57.0,62.0,Intermediate,Intermediate,Intermediate
+956,male,group C,some college,standard,none,84.0,87.0,81.0,Advanced,Advanced,Advanced
+957,female,group D,master's degree,standard,none,92.0,100.0,100.0,Master,Master,Master
+958,female,group D,high school,standard,none,45.0,63.0,59.0,Elementary,Intermediate,Intermediate
+959,male,group C,high school,standard,none,75.0,81.0,71.0,Intermediate,Advanced,Intermediate
+960,female,group A,some college,standard,none,56.0,58.0,64.0,Intermediate,Intermediate,Intermediate
+961,female,group D,some high school,free/reduced,none,48.0,54.0,53.0,Intermediate,Intermediate,Intermediate
+962,female,group E,associate's degree,standard,none,100.0,100.0,100.0,Master,Master,Master
+963,female,group C,some high school,free/reduced,completed,65.0,76.0,75.0,Intermediate,Advanced,Intermediate
+964,male,group D,some college,standard,none,72.0,57.0,58.0,Intermediate,Intermediate,Intermediate
+965,female,group D,some college,standard,none,62.0,70.0,72.0,Intermediate,Intermediate,Intermediate
+966,male,group A,some high school,standard,completed,66.0,68.0,64.0,Intermediate,Intermediate,Intermediate
+967,male,group C,some college,standard,none,63.0,63.0,60.0,Intermediate,Intermediate,Intermediate
+968,female,group E,associate's degree,standard,none,68.0,76.0,67.0,Intermediate,Advanced,Intermediate
+969,female,group B,bachelor's degree,standard,none,75.0,84.0,80.0,Intermediate,Advanced,Advanced
+970,female,group D,bachelor's degree,standard,none,89.0,100.0,100.0,Advanced,Master,Master
+971,male,group C,some high school,standard,completed,78.0,72.0,69.0,Advanced,Intermediate,Intermediate
+972,female,group A,high school,free/reduced,completed,53.0,50.0,60.0,Intermediate,Intermediate,Intermediate
+973,female,group D,some college,free/reduced,none,49.0,65.0,61.0,Intermediate,Intermediate,Intermediate
+974,female,group A,some college,standard,none,54.0,63.0,67.0,Intermediate,Intermediate,Intermediate
+975,female,group C,some college,standard,completed,64.0,82.0,77.0,Intermediate,Advanced,Advanced
+976,male,group B,some college,free/reduced,completed,60.0,62.0,60.0,Intermediate,Intermediate,Intermediate
+977,male,group C,associate's degree,standard,none,62.0,65.0,58.0,Intermediate,Intermediate,Intermediate
+978,male,group D,high school,standard,completed,55.0,41.0,48.0,Intermediate,Elementary,Intermediate
+979,female,group C,associate's degree,standard,none,91.0,95.0,94.0,Master,Master,Master
+980,female,group B,high school,free/reduced,none,27.0,29.0,25.875,Elementary,Elementary,Elementary
+981,male,group D,some high school,standard,none,81.0,78.0,78.0,Advanced,Advanced,Advanced
+982,male,group B,some high school,standard,completed,79.0,85.0,86.0,Advanced,Advanced,Advanced
+983,female,group A,some college,standard,completed,78.0,87.0,91.0,Advanced,Advanced,Master
+984,female,group C,some high school,standard,none,74.0,75.0,82.0,Intermediate,Intermediate,Advanced
+985,male,group A,high school,standard,none,57.0,51.0,54.0,Intermediate,Intermediate,Intermediate
+986,female,group C,associate's degree,standard,none,40.0,59.0,51.0,Elementary,Intermediate,Intermediate
+987,male,group E,some high school,standard,completed,81.0,75.0,76.0,Advanced,Intermediate,Advanced
+988,female,group A,some high school,free/reduced,none,44.0,45.0,45.0,Elementary,Elementary,Elementary
+989,female,group D,some college,free/reduced,completed,67.0,86.0,83.0,Intermediate,Advanced,Advanced
+990,male,group E,high school,free/reduced,completed,86.0,81.0,75.0,Advanced,Advanced,Intermediate
+991,female,group B,some high school,standard,completed,65.0,82.0,78.0,Intermediate,Advanced,Advanced
+992,female,group D,associate's degree,free/reduced,none,55.0,76.0,76.0,Intermediate,Advanced,Advanced
+993,female,group D,bachelor's degree,free/reduced,none,62.0,72.0,74.0,Intermediate,Intermediate,Intermediate
+994,male,group A,high school,standard,none,63.0,63.0,62.0,Intermediate,Intermediate,Intermediate
+995,female,group E,master's degree,standard,completed,88.0,99.0,95.0,Advanced,Master,Master
+996,male,group C,high school,free/reduced,none,62.0,55.0,55.0,Intermediate,Intermediate,Intermediate
+997,female,group C,high school,free/reduced,completed,59.0,71.0,65.0,Intermediate,Intermediate,Intermediate
+998,female,group D,some college,standard,completed,68.0,78.0,77.0,Intermediate,Advanced,Advanced
+999,female,group D,some college,free/reduced,none,77.0,86.0,86.0,Advanced,Advanced,Advanced
